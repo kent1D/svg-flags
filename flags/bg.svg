@@ -1,0 +1,7 @@
+<svg id="bulgaria_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+<g stroke-width="1pt" fill-rule="evenodd">
+<path d="m0 320h640v160h-640z" fill="#de2110"/>
+<path d="m0 0h640v160h-640z" fill="#fff"/>
+<path d="m0 160h640v160h-640z" fill="#319400"/>
+</g>
+</svg>

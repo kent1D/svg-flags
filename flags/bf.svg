@@ -1,0 +1,14 @@
+<svg id="burkina_faso_flag" xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 600">
+<rect width="900" fill="#009e49" height="600"/>
+<rect width="900" fill="#ef2b2d" height="300"/>
+<g transform="translate(450,300)" fill="#fcd116">
+<g id="c">
+<path id="t" transform="rotate(18 0,-100)" d="m0-100v100h50"/>
+<use xlink:href="#t" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#c" transform="rotate(72)"/>
+<use xlink:href="#c" transform="rotate(144)"/>
+<use xlink:href="#c" transform="rotate(216)"/>
+<use xlink:href="#c" transform="rotate(288)"/>
+</g>
+</svg>

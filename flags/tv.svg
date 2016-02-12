@@ -1,0 +1,24 @@
+<svg id="tuvalu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 600">
+<defs>
+<clipPath id="c">
+<path d="m0 0v150h700v150h-100zm0 300v100h300v-400h300z"/>
+</clipPath>
+<path id="star" d="m0-50.081 29.437 90.597-77.067-55.992h95.26l-77.067 55.993z" fill="#ffce00"/>
+<use id="rats" xlink:href="#star" transform="rotate(36)"/>
+</defs>
+<rect width="1200" fill="#00247d" height="600"/>
+<path stroke="#fff" stroke-width="60" d="m0 0 600 300m-600 0 600-300"/>
+<path stroke="#cf142b" stroke-width="40" d="m0 0 600 300m-600 0 600-300" clip-path="url(#c)"/>
+<path stroke="#fff" stroke-width="100" d="m300 0v400m-300-250h700"/>
+<path stroke="#cf142b" stroke-width="60" d="m300 0v400m-300-250h700"/>
+<path d="m0 300h600v-300h600v600h-1200z" fill="#5b97b1"/>
+<use y="540.9936" x="645.3396" xlink:href="#star"/>
+<use y="504.516" x="788.0256" xlink:href="#rats"/>
+<use y="382.5324" x="788.0256" xlink:href="#rats"/>
+<use y="473.6844" x="914.0304" xlink:href="#rats"/>
+<use y="208.2708" x="914.0304" xlink:href="#rats"/>
+<use y="390.0456" x="996.4416" xlink:href="#star"/>
+<use y="172.0776" x="1019.928" xlink:href="#rats"/>
+<use y="321.5544" x="1102.836" xlink:href="#star"/>
+<use y="87.486" x="1102.836" xlink:href="#star"/>
+</svg>

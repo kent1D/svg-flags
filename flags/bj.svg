@@ -1,0 +1,14 @@
+<svg id="benin_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+<defs>
+<clipPath id="a">
+<path d="m67.64-154h666v666h-666z" fill="gray"/>
+</clipPath>
+</defs>
+<g transform="matrix(.961 0 0 .7207 -65 110.99)" clip-path="url(#a)">
+<g stroke-width="1pt" fill-rule="evenodd">
+<path d="m0-154h333v666h-333z" fill="#319400"/>
+<path d="m333-154h666v333h-666z" fill="#ffd600"/>
+<path d="m333 179h666v333h-666z" fill="#de2110"/>
+</g>
+</g>
+</svg>

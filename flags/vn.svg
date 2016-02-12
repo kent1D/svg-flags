@@ -1,0 +1,11 @@
+<svg id="svg378" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
+<defs id="defs380">
+<clipPath id="clipPath4024" clipPathUnits="userSpaceOnUse">
+<rect id="rect4026" fill-opacity=".67" height="512" width="682.67" y=".0000024116" x="-85.334"/>
+</clipPath>
+</defs>
+<g id="flag" clip-path="url(#clipPath4024)" transform="matrix(.9375 0 0 .9375 80.001 -.0000022609)" fill-rule="evenodd">
+<rect id="rect149" height="512" width="768" y=".0000024116" x="-128" stroke-width="1pt" fill="#ec0015"/>
+<path id="path205" stroke-width=".11287" fill="#ff0" d="m349.59 381.05-89.576-66.893-89.137 67.55 33.152-109.77-88.973-67.784 110.08-0.94507 34.142-109.44 34.873 109.19 110.08 0.14401-88.517 68.423 33.884 109.53z"/>
+</g>
+</svg>

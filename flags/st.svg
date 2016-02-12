@@ -1,0 +1,17 @@
+<svg id="svg1207" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 480">
+<defs id="defs1209">
+<clipPath id="clipPath8409" clipPathUnits="userSpaceOnUse">
+<rect id="rect8411" fill-opacity=".67" height="512" width="682.67" y="-.000016581" x="0"/>
+</clipPath>
+</defs>
+<g id="flag" fill-rule="evenodd" transform="matrix(.93750 0 0 .93750 0 .000015545)" clip-path="url(#clipPath8409)">
+<rect id="rect3472" height="504.3" width="1024" y="-.000013873" x="0" stroke-width="1pt" fill="#ff0"/>
+<rect id="rect1276" height="146.29" width="1024" y="-.0000025191" x=".000078442" stroke-width="1pt" fill="#009d00"/>
+<rect id="rect3471" height="146.29" width="1024" y="365.71" x="0" stroke-width="1pt" fill="#009d00"/>
+<path id="path570" fill="#f10600" d="m0.7083-0.000016778c1.4166 0 255.29 253.03 255.29 253.03l-256 258.97 0.7083-512z"/>
+<g id="g1310" stroke-width="1pt" transform="matrix(.78651 0 0 .78651 -154.66 -225.36)">
+<polygon id="polygon136" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15" transform="matrix(.70904 0 0 .73035 367.01 360.98)"/>
+<polygon id="polygon1309" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15" transform="matrix(.70904 0 0 .73035 116.64 360.98)"/>
+</g>
+</g>
+</svg>

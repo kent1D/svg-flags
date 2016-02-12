@@ -1,0 +1,5 @@
+<svg id="bahamas_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<rect width="600" fill="#00abc9" height="300"/>
+<rect y="100" width="600" fill="#fae042" height="100"/>
+<path d="m0 0v300l259.81-150z"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="liberia" xmlns="http://www.w3.org/2000/svg" height="600" width="1140" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 209 110">
+<rect width="209" height="110" fill="#bf0a30"/>
+<path stroke="#fff" stroke-width="10" d="m0 15h209m-209 20h209m-209 20h209m-209 20h209m-209 20h209"/>
+<rect width="50" height="50" fill="#002868"/>
+<g transform="translate(25,25) scale(15)">
+<g id="B">
+<polygon id="A" points="0 0 0 1 0.5 1" transform="translate(0,-1) rotate(18)" fill="#fff"/>
+<use xlink:href="#A" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#B" transform="rotate(72)"/>
+<use xlink:href="#B" transform="rotate(-72)"/>
+<use xlink:href="#B" transform="rotate(144)"/>
+<use xlink:href="#B" transform="rotate(216)"/>
+</g>
+</svg>

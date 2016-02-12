@@ -1,0 +1,8 @@
+<svg id="lybia" viewBox="0 0 960 480" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" fill="#239e46" height="480"/>
+<rect width="960" height="360"/>
+<rect width="960" fill="#e70013" height="120"/>
+<circle cy="240" cx="480" r="60" fill="#fff"/>
+<circle cy="240" cx="492.13" r="52.132"/>
+<path d="m509.18 240 80.7-26.22-49.88 68.65v-84.86l49.88 68.65z" fill="#fff"/>
+</svg>

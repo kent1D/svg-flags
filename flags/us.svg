@@ -1,0 +1,25 @@
+<svg id="united_states" xmlns="http://www.w3.org/2000/svg" height="650" width="1235" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 7410 3900">
+<rect width="7410" fill="#b22234" height="3900"/>
+<path stroke="#fff" stroke-width="300" d="m0 450h7410m0 600h-7410m0 600h7410m0 600h-7410m0 600h7410m0 600h-7410"/>
+<rect width="2964" fill="#3c3b6e" height="2100"/>
+<g fill="#fff">
+<g id="s18">
+<g id="s9">
+<g id="s5">
+<g id="s4">
+<path id="s" d="m247 90 70.53 217.08-184.66-134.16h228.26l-184.66 134.16z"/>
+<use y="420" xlink:href="#s"/>
+<use y="840" xlink:href="#s"/>
+<use y="1260" xlink:href="#s"/>
+</g>
+<use y="1680" xlink:href="#s"/>
+</g>
+<use y="210" x="247" xlink:href="#s4"/>
+</g>
+<use x="494" xlink:href="#s9"/>
+</g>
+<use x="988" xlink:href="#s18"/>
+<use x="1976" xlink:href="#s9"/>
+<use x="2470" xlink:href="#s5"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="svg378" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
+<defs id="defs380">
+<clipPath id="clipPath4479" clipPathUnits="userSpaceOnUse">
+<rect id="rect4481" fill-opacity=".67" height="511.9" width="682.53" y=".10048" x="5.0774"/>
+</clipPath>
+</defs>
+<g id="flag" clip-path="url(#clipPath4479)" transform="matrix(.93768 0 0 .93768 -4.761 -.094216)" fill-rule="evenodd">
+<rect id="rect149" transform="scale(-1)" height="510.95" width="851.86" stroke="#000" y="-511.52" x="-775.94" stroke-width=".76014pt" fill="#fff"/>
+<rect id="rect148" transform="scale(-1,1)" height="92.457" width="851.86" y="419.07" x="-775.94" stroke-width="1pt" fill="#3e5698"/>
+<rect id="rect605" transform="scale(-1)" height="283.21" width="851.86" y="-397.65" x="-775.94" stroke-width="1pt" fill="#c60000"/>
+<rect id="rect606" transform="scale(-1,1)" height="92.457" width="851.86" y=".57557" x="-775.94" stroke-width="1pt" fill="#3e5698"/>
+<path id="path607" transform="matrix(.72421 0 0 .70142 -30.589 -549.16)" fill="#fff" d="m495.86 1148c0 90.46-73.332 163.79-163.79 163.79-90.46 0-163.79-73.332-163.79-163.79 0-90.46 73.332-163.79 163.79-163.79 90.46 0 163.79 73.332 163.79 163.79z"/>
+<polygon id="polygon136" points="498.45 365.81 441.12 324.21 511.95 324.28 533.78 256.9 555.61 324.28 626.44 324.23 569.1 365.81 591.04 433.16 591.04 433.16 533.77 391.48 476.5 433.15" fill="#c40000" transform="matrix(1.0032 -.0050477 -.010923 .98334 -320.22 -86.633)"/>
+</g>
+</svg>

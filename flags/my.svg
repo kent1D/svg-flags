@@ -1,0 +1,13 @@
+<svg id="malaysia" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2800 1400">
+<rect id="red" width="2800" fill="#cc0001" height="1400"/>
+<rect id="white" height="100" width="2800" y="1300" fill="#fff"/>
+<use id="use3035" xlink:href="#white" transform="translate(0,-200)"/>
+<use id="use3038" xlink:href="#white" transform="translate(0,-400)"/>
+<use id="use3062" xlink:href="#white" transform="translate(0,-600)"/>
+<use id="use3064" xlink:href="#white" transform="translate(0,-800)"/>
+<use id="use3066" xlink:href="#white" transform="translate(0 -1e3)"/>
+<use id="use3068" xlink:href="#white" transform="translate(0,-1200)"/>
+<rect id="blue" width="1400" fill="#010066" height="800"/>
+<path id="path4945" fill="#fc0" d="m576 100c-166.15 0-301 134.41-301 300s134.85 300 301 300c60.03 0 115.95-17.56 162.93-47.78-27.36 9.44-56.71 14.6-87.27 14.6-147.33 0-266.9-119.17-266.9-266.01s119.57-266.01 266.9-266.01c32.55 0 63.74 5.81 92.6 16.47-48.04-32.36-105.96-51.27-168.26-51.27z"/>
+<path id="path4959" fill="#fc0" d="m914.29 471.43l-99.54-53.25 29.43 108.98-66.58-91.16-20.77 110.96-20.43-111.03-66.85 90.96 29.76-108.89-99.7 52.94 74.07-85.19-112.8 4.44 103.69-44.62-103.55-44.94 112.78 4.79-73.8-85.42 99.54 53.25-29.43-108.98 66.57 91.16 20.77-110.96 20.43 111.03 66.86-90.96-29.77 108.89 99.7-52.94-74.06 85.19 112.8-4.44-103.7 44.62 103.56 44.94-112.79-4.79z" transform="matrix(1.2738 0 0 1.2423 -89.443 -29.478)"/>
+</svg>
