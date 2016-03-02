@@ -1,7 +1,5 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<g stroke-width="1pt" fill-rule="evenodd">
-<path d="m0 0h640v480h-640z" fill="#ffe800"/>
-<path d="m0 240h640v240h-640z" fill="#00148e"/>
-<path d="m0 360h640v120h-640z" fill="#da0010"/>
-</g>
+<svg id="colombia_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 4">
+<rect fill="#CE1126" width="6" height="4"/>
+<rect fill="#003893" width="6" height="3"/>
+<rect fill="#FCD116" width="6" height="2"/>
 </svg>
