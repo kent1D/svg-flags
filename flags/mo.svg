@@ -1,4 +1,4 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="macao_flag" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <path d="m0 0h640v480h-640z" fill="#00785e"/>
 <path d="m294.92 108.73l40.58 29.48-15.5-47.71-15.5 47.71 40.585-29.483z" fill="#fbd116"/>
 <g id="a">

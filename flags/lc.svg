@@ -1,8 +1,6 @@
-<svg id="svg604" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 480">
-<g id="flag" fill-rule="evenodd">
-<rect id="rect607" height="480" width="640" y="0" x="0" fill="#65cfff"/>
-<path id="path615" fill="#fff" d="m318.9 41.991 162.66 395.3-322.6 0.91 159.94-396.21z"/>
-<path id="path617" d="m319.09 96.516 140.67 339.99-278.99 0.78 138.32-340.77z"/>
-<path id="path616" fill="#ffce00" d="m318.9 240.1 162.66 197.64-322.6 0.46 159.94-198.1z"/>
-</g>
+<svg id="saint_lucia_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<rect width="600" height="300" fill="#6Cf"/>
+<polygon points="200 274 300 260 400 274 300 27" fill="#FFF"/>
+<polygon points="213.5 274 300 260 386.5 274 300 60"/>
+<polygon points="200 274 400 274 300 150" fill="#FCD116"/>
 </svg>

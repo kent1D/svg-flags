@@ -1,12 +1,5 @@
-<svg id="svg378" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 480">
-<defs id="defs380">
-<clipPath id="clipPath5023" clipPathUnits="userSpaceOnUse">
-<rect id="rect5025" fill-opacity=".67" height="480" width="640" y="0" x="0"/>
-</clipPath>
-</defs>
-<g id="flag" clip-path="url(#clipPath5023)" fill-rule="evenodd">
-<rect id="rect171" height="480" width="720" y="0" x="-40" stroke-width="1pt" fill="#e90012"/>
-<rect id="rect403" height="241.48" width="720" y="119.26" x="-40" fill="#003dd2"/>
-<path id="path138" transform="matrix(.72943 0 0 .72943 -71.404 -20.759)" fill="#fff" d="m678.37 357.48a141.78 141.78 0 1 1 -283.56 0 141.78 141.78 0 1 1 283.56 0z"/>
-</g>
+<svg id="laos_flag" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<rect width="600" height="400" fill="#ce1126"/>
+<rect y="100" width="600" height="200" fill="#002868"/>
+<circle cy="200" cx="300" r="80" fill="#fff"/>
 </svg>
