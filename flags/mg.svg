@@ -1,7 +1,5 @@
-<svg id="svg548" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
-<g id="flag" stroke-width="1pt" fill-rule="evenodd">
-<rect id="rect551" height="240" width="426.67" y=".000014514" x="213.33" fill="#ff3319"/>
-<rect id="rect552" height="240" width="426.67" y="240" x="213.33" fill="#00cc28"/>
-<rect id="rect553" height="480" width="213.33" y="4.3291e-13" x="0" fill="#fff"/>
-</g>
+<svg id="madagascar_flag" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="600" fill="#007E3A"/>
+<rect width="900" height="300" fill="#FC3D32"/>
+<rect width="300" height="600" fill="#FFF"/>
 </svg>
