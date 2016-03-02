@@ -1,16 +1,11 @@
-<svg viewBox="-5 -5 12.8 9.6" width="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="480">
+<svg id="china_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 20">
 <defs>
-<path id="b" d="m-0.588 0.81l0.588-1.81 0.588 1.81-1.54-1.12h1.904z" fill="#ffde00"/>
-<clipPath id="a">
-<path d="m-5-15.4h26.667v20h-26.667z"/>
-</clipPath>
+<path id="s" d="M0,-1 0.587785,0.809017 -0.951057,-0.309017H0.951057L-0.587785,0.809017z" fill="#ffde00"/>
 </defs>
-<g transform="matrix(.48 0 0 .48 -2.6 2.39)" clip-path="url(#a)">
-<path d="m-5-15.4h30v20h-30z" fill="#de2910"/>
-<use width="30" xlink:href="#b" transform="matrix(3 0 0 3 0 -10.4)" height="20"/>
-<use width="30" xlink:href="#b" transform="rotate(239.07 -1.29 -8.12)" height="20"/>
-<use width="30" xlink:href="#b" transform="rotate(-98.11 -1.45 -8.74)" height="20"/>
-<use width="30" xlink:href="#b" transform="rotate(-74.04 -2.07 -8.84)" height="20"/>
-<use width="30" xlink:href="#b" transform="rotate(-51.32 -4.16 -8.4)" height="20"/>
-</g>
+<rect width="30" height="20" fill="#de2910"/>
+<use xlink:href="#s" transform="translate(5,5) scale(3)"/>
+<use xlink:href="#s" transform="translate(10,2) rotate(23.036243)"/>
+<use xlink:href="#s" transform="translate(12,4) rotate(45.869898)"/>
+<use xlink:href="#s" transform="translate(12,7) rotate(69.945396)"/>
+<use xlink:href="#s" transform="translate(10,9) rotate(20.659808)"/>
 </svg>
