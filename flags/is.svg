@@ -1,12 +1,5 @@
-<svg id="islenskifaninn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
-<defs id="defs380">
-<clipPath id="clipPath3901" clipPathUnits="userSpaceOnUse">
-<rect id="rect3903" fill-opacity=".67" height="480" width="640" y="0" x="0"/>
-</clipPath>
-</defs>
-<g id="flag" clip-path="url(#clipPath3901)" stroke-width="0pt" fill-rule="evenodd">
-<rect id="blarfeldur" height="480" width="666.67" y="0" x="0" fill="#003897"/>
-<path id="hviturkross" fill-cmyk="(0 0 0 0)" fill="#fff" d="m0 186.67h186.67v-186.67h106.67v186.67h373.33v106.67h-373.33v186.67h-106.67v-186.67h-186.67v-106.67z"/>
-<path id="raudurkross" fill="#d72828" d="m0 213.33h213.33v-213.33h53.333v213.33h400v53.333h-400v213.33h-53.333v-213.33h-213.33v-53.333z"/>
-</g>
+<svg id="iceland_flag" viewBox="0 0 2500 1800" xmlns="http://www.w3.org/2000/svg">
+<path d="m0 0h2500v1800h-2500" fill="#003897"/>
+<path d="m700 0h400v1800h-400m-700-1100h2500v400h-2500" fill="#fff"/>
+<path d="m800 0h200v1800h-200m-800-1e3h2500v200h-2500" fill="#d72828"/>
 </svg>
