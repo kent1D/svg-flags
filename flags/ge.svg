@@ -1,18 +1,17 @@
-<svg viewBox="0 0 213.33333 160" width="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="480">
+<svg id="georgia_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 200">
 <defs>
-<g id="c">
-<clipPath id="a">
+<g id="smallcross">
+<clipPath id="vclip">
 <path d="m-109 104a104 104 0 0 0 0 -208h218a104 104 0 0 0 0 208z"/>
 </clipPath>
-<path id="b" d="m-55 74a55 55 0 0 1 110 0v-148a55 55 0 0 1 -110 0z" clip-path="url(#a)"/>
-<use width="300" xlink:href="#b" transform="rotate(90)" height="200"/>
+<path id="varm" clip-path="url(#vclip)" d="m-55 74a55 55 0 0 1 110 0v-148a55 55 0 0 1 -110 0z"/>
+<use xlink:href="#varm" transform="rotate(90)"/>
 </g>
 </defs>
-<path d="m0 0h213.33v160h-213.33z" fill="#fff"/>
-<path d="m6.385 13.192h200.56v133.71h-200.56z" fill="#fff"/>
-<path d="m93.296 13.192v53.484h-86.91v26.742h86.91v53.484h26.742v-53.482h86.91v-26.742h-86.91v-53.484h-26.744z" fill="red"/>
-<use width="300" xlink:href="#c" fill="red" transform="matrix(.67 0 0 .67 49.47 39.57)" height="200"/>
-<use width="300" xlink:href="#c" fill="red" transform="matrix(.67 0 0 .67 163.86 120.53)" height="200"/>
-<use width="300" xlink:href="#c" fill="red" transform="matrix(.67 0 0 .67 163.86 39.57)" height="200"/>
-<use width="300" xlink:href="#c" fill="red" transform="matrix(.67 0 0 .67 49.47 120.53)" height="200"/>
+<rect width="300" fill="#fff" height="200"/>
+<path d="m130 0v80h-130v40h130v80h40v-80h130v-40h-130v-80h-40z" fill="#f00"/>
+<use xlink:href="#smallcross" transform="translate(64.45,39.45)" fill="#f00"/>
+<use xlink:href="#smallcross" transform="translate(235.55,160.55)" fill="#f00"/>
+<use xlink:href="#smallcross" transform="translate(235.55,39.45)" fill="#f00"/>
+<use xlink:href="#smallcross" transform="translate(64.45,160.55)" fill="#f00"/>
 </svg>
