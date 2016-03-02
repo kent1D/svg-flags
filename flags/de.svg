@@ -1,7 +1,5 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<g stroke-width="1pt" fill-rule="evenodd">
-<path d="m0 320h640v160h-640z" fill="#fc0"/>
-<path d="m0 0h640v160h-640z"/>
-<path d="m0 160h640v160h-640z" fill="#f00"/>
-</g>
+<svg id="germany_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 3">
+<rect width="5" height="3" y="0" x="0" fill="#000"/>
+<rect width="5" height="2" y="1" x="0" fill="#D00"/>
+<rect width="5" height="1" y="2" x="0" fill="#FFCE00"/>
 </svg>
