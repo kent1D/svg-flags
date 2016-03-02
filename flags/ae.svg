@@ -1,8 +1,6 @@
-<svg id="united_arab_emirates_flag" width="640" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="480">
-<g fill-rule="evenodd" transform="matrix(1.3333 0 0 1 -85.333 0)" clip-path="url(#a)">
-<path d="m0 0h192v512h-192z" fill="red"/>
-<path d="m192 340.06h576v171.94h-576z"/>
-<path d="m192 172.7h576v169.65h-576z" fill="#fff"/>
-<path d="m192 0h576v172.7h-576z" fill="#00732f"/>
-</g>
+<svg id="united_arab_emirates_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+<rect width="12" height="2" fill="#00732f" />
+<rect width="12" height="2" y="2" fill="#fff"/>
+<rect width="12" height="2" y="4"/>
+<rect width="3" height="6" 	fill="#f00" />
 </svg>
