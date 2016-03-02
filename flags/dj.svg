@@ -1,13 +1,6 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<defs>
-<clipPath id="a">
-<path d="m-40 0h682.67v512h-682.67z" fill-opacity=".67"/>
-</clipPath>
-</defs>
-<g fill-rule="evenodd" transform="matrix(.94 0 0 .94 37.5 0)" clip-path="url(#a)">
-<path d="m-40 0h768v512h-768z" fill="#0c0"/>
-<path d="m-40 0h768v256h-768z" fill="#69f"/>
-<path d="m-40 0l382.73 255.67-382.73 255.34v-511.01z" fill="#fffefe"/>
-<path d="m119.8 292.07l-30.82-22.18-30.67 22.4 11.407-36.41-30.613-22.48 37.874-0.31 11.747-36.3 12 36.216 37.874 0.048-30.458 22.695 11.66 36.328z" fill="red"/>
-</g>
+<svg id="djibouti_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 10">
+<rect width="15" height="10" style="fill:#6ab2e7"/>
+<rect width="15" height="5" y="5"  style="fill:#12ad2b"/>
+<path d="M 0,0 0,5 0,10 4.330127,7.5 8.660254,5 4.330127,2.5 0,0 z" style="fill:#fff"/>
+<path d="m 3.3143278,3.75 0.3102707,0.954915 1.0040571,0 L 3.8163564,5.295085 4.126627,6.25 3.3143278,5.65983 2.5020286,6.25 2.8122992,5.295085 2,4.704915 l 1.004057,0 L 3.3143278,3.75 z" style="fill:#d7141a"/>
 </svg>
