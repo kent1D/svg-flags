@@ -1,7 +1,5 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<g stroke-width="1pt" fill-rule="evenodd">
-<path d="m0 0h640v480h-640z" fill="#fff"/>
-<path d="m0 0h213.33v480h-213.33z" fill="#009A49"/>
-<path d="m426.67 0h213.33v480h-213.33z" fill="#FF7900"/>
-</g>
+<svg id="ireland_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+<rect width="1200" height="600" fill="#169b62"/>
+<rect width="800" height="600" fill="#fff"/>
+<rect width="400" height="600" fill="#ff883e"/>
 </svg>
