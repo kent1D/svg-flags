@@ -1,21 +1,12 @@
-<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6.4 4.8">
-<defs id="defs4">
-<polygon id="pt" points="0 -0.5 0.16246 0 -0.16246 0" fill="#fff" transform="scale(8.844)"/>
-<g id="star">
-<use id="use8" xlink:href="#pt" transform="rotate(216)" height="12" width="18" y="0" x="0"/>
-<use id="use10" xlink:href="#pt" transform="rotate(-72.001)" height="12" width="18" y="0" x="0"/>
-<use id="use12" xlink:href="#pt" height="12" width="18" y="0" x="0"/>
-<use id="use14" xlink:href="#pt" transform="rotate(72.001)" height="12" width="18" y="0" x="0"/>
-<use id="use16" xlink:href="#pt" transform="rotate(144)" height="12" width="18" y="0" x="0"/>
-</g>
-<clipPath id="clipPath3013" clipPathUnits="userSpaceOnUse">
-<rect id="rect3015" height="12" width="16" y="-7.2" x="1"/>
-</clipPath>
-</defs>
-<g id="flag" clip-path="url(#clipPath3013)" transform="matrix(0.4 0 0 0.4 -.4 2.88)">
-<rect id="rect18" height="6" width="18" y="-7.2" x="0" fill="#fecb00"/>
-<rect id="rect20" height="6" width="18" y="-1.2" x="0" fill="#ea2839"/>
-<rect id="rect22" height="4" width="18" y="-3.2" x="0" fill="#34b233"/>
-<use id="use24" xlink:href="#star" transform="translate(0,-7.2)" height="12" width="18" y="6.4219999" x="9"/>
+<svg id="myanmar_flag" xmlns="http://www.w3.org/2000/svg" height="1200" width="1800" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 12">
+<rect width="18" fill="#FECB00" height="6"/>
+<rect y="6" width="18" fill="#EA2839" height="6"/>
+<rect y="4" width="18" fill="#34B233" height="4"/>
+<g transform="translate(9,6.422)scale(4.422)">
+<polygon id="pt" points="-0.32492 0 0 -1 0.32492 0" fill="#FFF"/>
+<use xlink:href="#pt" transform="rotate(216)"/>
+<use xlink:href="#pt" transform="rotate(-72)"/>
+<use xlink:href="#pt" transform="rotate(72)"/>
+<use xlink:href="#pt" transform="rotate(144)"/>
 </g>
 </svg>
