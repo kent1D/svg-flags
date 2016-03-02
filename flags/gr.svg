@@ -1,22 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
-<defs>
-<clipPath id="a">
-<path d="m0 0h120v90h-120z" fill-opacity=".67"/>
-</clipPath>
-</defs>
-<g stroke-width="1pt" clip-path="url(#a)" transform="scale(5.33)" fill-rule="evenodd">
-<path d="m0 0h135v10h-135z" fill="#0d5eaf"/>
-<path d="m0 10h135v10h-135z" fill="#fff"/>
-<path d="m0 20h135v10h-135z" fill="#0d5eaf"/>
-<path d="m0 30h135v10h-135z" fill="#fff"/>
-<path d="m0 40h135v10h-135z" fill="#0d5eaf"/>
-<path d="m0 50h135v10h-135z" fill="#fff"/>
-<path d="m0 60h135v10h-135z" fill="#0d5eaf"/>
-<path d="m0 70h135v10h-135z" fill="#fff"/>
-<path d="m0 80h135v10h-135zm0-80h50v50h-50z" fill="#0d5eaf"/>
-<g fill="#fff">
-<path d="m20 0h10v50h-10z"/>
-<path d="m0 20h50v10h-50z"/>
-</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 18">
+<rect fill="#0D5EAF" width="27" height="18"/>
+<path fill="none" stroke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27 M0,11H27 M0,15H27"/>
 </svg>
