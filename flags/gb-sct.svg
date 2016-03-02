@@ -1,4 +1,11 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
-<path d="m0 0h640v480h-640z" fill="#fff"/>
-<path stroke="#0065bd" stroke-width=".6" d="m0 0l5 3m-5 0l5-3" transform="scale(128 160)"/>
+<svg id="scotland_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 3">
+<defs>
+<clipPath id="a">
+<rect width="5" height="3"/>
+</clipPath>
+</defs>
+<g clip-path="url(#a)">
+<rect width="50" fill="#0065BD" height="30"/>
+<path stroke="#fff" stroke-width=".6" d="m0 0l5 3m-5 0l5-3" fill="none"/>
+</g>
 </svg>
