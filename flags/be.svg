@@ -1,7 +1,5 @@
 <svg id="belgium_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
-<g stroke-width="1pt" fill-rule="evenodd">
 <path d="m0 0h213.34v480h-213.34z"/>
 <path d="m213.34 0h213.33v480h-213.33z" fill="#ffd90c"/>
 <path d="m426.67 0h213.34v480h-213.34z" fill="#f31830"/>
-</g>
 </svg>
