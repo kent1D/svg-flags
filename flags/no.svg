@@ -1,7 +1,7 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<path d="m0 0h640v480h-640z" fill="#ef2b2d"/>
-<path d="m180 0h120v480h-120z" fill="#fff"/>
-<path d="m0 180h640v120h-640z" fill="#fff"/>
-<path d="m210 0h60v480h-60z" fill="#002868"/>
-<path d="m0 210h640v60h-640z" fill="#002868"/>
+<svg id="norway_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 800">
+<rect width="1100" fill="#ef2b2d" height="800"/>
+<rect width="200" fill="#fff" x="300" height="800"/>
+<rect y="300" width="1100" fill="#fff" height="200"/>
+<rect width="100" fill="#002868" x="350" height="800"/>
+<rect y="350" width="1100" fill="#002868" height="100"/>
 </svg>
