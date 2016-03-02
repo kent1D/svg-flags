@@ -1,0 +1,23 @@
+<svg id="israel_palestinian_territories_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<style type="text/css">
+	.st0{fill:#047A41;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#010101;}
+	.st3{fill:#CE232E;}
+	.st4{fill:#2D4B9C;}
+	.st5{fill:#010101;fill-opacity:0;stroke:#2D4B9C;stroke-width:5.5;}
+</style>
+	<rect y="339" x="278" height="261" class="st0" width="522"/>
+	<rect y="339" x="278" height="174" class="st1" width="522"/>
+	<rect y="339" x="278" height="87" class="st2" width="522"/>
+	<path class="st3" d="m278 339l174 130.5-174 130.5v-261z"/>
+<rect y=".9" width="459.3" class="st1" height="334"/>
+<rect y="32.2" width="459.3" class="st4" height="52.2"/>
+<rect y="251.4" width="459.3" class="st4" height="52.2"/>
+<g transform="translate(110,80)">
+	<polygon points="119.7 148.4 172.3 57.1 67 57.1" class="st5"/>
+</g>
+<g transform="translate(110,80) rotate(180)">
+	<polygon points="-119.4 -21.2 -66.7 -112.5 -172 -112.5" class="st5"/>
+</g>
+</svg>
