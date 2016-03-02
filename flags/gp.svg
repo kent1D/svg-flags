@@ -1,7 +1,5 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<g stroke-width="1pt" fill-rule="evenodd">
-<path d="m0 0h640v480h-640z" fill="#fff"/>
-<path d="m0 0h213.34v480h-213.34z" fill="#00267f"/>
-<path d="m426.66 0h213.34v480h-213.34z" fill="#f31830"/>
-</g>
+<svg id="guadeloupe_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<rect width="900" height="600" fill="#ED2939"/>
+<rect width="600" height="600" fill="#fff"/>
+<rect width="300" height="600" fill="#002395"/>
 </svg>

@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" version="1.0">
+<svg id="eritrea_flag" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
 <rect width="1e3" fill="#ea0437" height="500"/>
 <path d="m0 500h1e3v-250" fill="#4189dd"/>
 <path d="m0 0h1e3v250" fill="#12ad2b"/>
