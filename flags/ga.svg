@@ -1,7 +1,5 @@
-<svg viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" version="1">
-<g fill-rule="evenodd">
-<path d="m640 480h-640v-480h640z" fill="#ffe700"/>
-<path d="m640 160h-640v-160h640z" fill="#36a100"/>
-<path d="m640 480h-640v-160h640z" fill="#006dbc"/>
-</g>
+<svg id="gabon_flag" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#3a75c4" width="400" height="300"/>
+<rect fill="#fcd116" width="400" height="200"/>
+<rect fill="#009e60" width="400" height="100"/>
 </svg>
