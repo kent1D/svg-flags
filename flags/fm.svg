@@ -1,11 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
-<defs>
-<clipPath id="a">
-<path d="m-81.333 0h682.67v512h-682.67z" fill-opacity=".67"/>
-</clipPath>
-</defs>
-<g stroke-width="1pt" clip-path="url(#a)" transform="matrix(.94 0 0 .94 76.25 0)" fill-rule="evenodd">
-<path d="m-252 0h1024v512h-1024z" fill="#6797d6"/>
-<path d="m259.79 122.98l-32.44 22.214 12.433-35.9-32.475-22.177 40.122 0.038 12.366-35.92 12.366 35.92 40.12-0.026-32.48 22.171 12.43 35.905m-32.44 244.85l-32.44-22.214 12.433 35.9-32.475 22.176 40.122-0.038 12.366 35.92 12.366-35.92 40.12 0.027-32.48-22.166 12.43-35.905m-188.39-92.46l-24.53 30.73 1.395-37.967-37.54-11.713 38.38-11.695 1.324-37.966 22.328 30.735 38.36-11.755-24.58 30.694 22.383 30.7m274.28-11.76l24.53 30.73-1.395-37.967 37.54-11.713-38.38-11.695-1.324-37.966-22.328 30.735-38.36-11.755 24.58 30.694-22.383 30.7" fill="#fff"/>
+<svg id="micronesia_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-19 -10 38 20">
+<rect y="-10" x="-19" height="20" fill="#75b2dd" width="38"/>
+<g id="star" fill="#fff" transform="translate(0,-6)">
+<g id="c">
+<path id="t" transform="rotate(18 0,-2)" d="m0-2v2h1"/>
+<use xlink:href="#t" transform="scale(-1,1)"/>
 </g>
+<use xlink:href="#c" transform="rotate(72)"/>
+<use xlink:href="#c" transform="rotate(144)"/>
+<use xlink:href="#c" transform="rotate(216)"/>
+<use xlink:href="#c" transform="rotate(288)"/>
+</g>
+<use xlink:href="#star" transform="rotate(90)"/>
+<use xlink:href="#star" transform="rotate(180)"/>
+<use xlink:href="#star" transform="rotate(270)"/>
 </svg>
