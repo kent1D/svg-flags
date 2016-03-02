@@ -1,18 +1,8 @@
-<svg viewBox="-18 -12 36 24" width="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="480">
-<defs>
-<clipPath id="a">
-<path d="m-18-13.5h36v27h-36z" fill-opacity=".67"/>
-</clipPath>
-</defs>
-<g clip-path="url(#a)">
-<path d="m-18-18h36v36h-36z" fill="#fff"/>
-<path d="m-18-13.5h36v27h-36z" fill="#fff"/>
-<path stroke="#e8112d" stroke-width="7.195" d="m0-21.586v43.172m-21.586-21.586h43.172" fill="none"/>
-<g transform="scale(1.75)">
-<path id="b" d="m-6.75 1.5l0.75-0.75h6.75v-1.5h-6.75l-0.75-0.75z" fill="#f9dd16"/>
-<use width="36" xlink:href="#b" transform="rotate(90)" height="24"/>
-<use width="36" xlink:href="#b" transform="rotate(-90)" height="24"/>
-<use width="36" xlink:href="#b" transform="scale(-1)" height="24"/>
-</g>
-</g>
+<svg id="guernsey_flag" viewBox="-18 -12 36 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect y="-12" x="-18" height="24" fill="#fff" width="36"/>
+<path stroke="#e8112d" stroke-width="6" d="m0-12v24m-18-12h36" fill="none"/>
+<path id="arm" fill="#f9dd16" d="m-9 2l1-1h9v-2h-9l-1-1z"/>
+<use xlink:href="#arm" transform="rotate(90)"/>
+<use xlink:href="#arm" transform="rotate(-90)"/>
+<use xlink:href="#arm" transform="rotate(180)"/>
 </svg>
