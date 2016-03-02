@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-opacity="14.118" viewBox="0 0 640 480" fill="#28ff09">
-<g fill-opacity="1" fill-rule="evenodd">
-<path d="m426.83 0h213.17v480h-213.17z" fill="#00cd00"/>
-<path d="m0 0h212.88v480h-212.88z" fill="#ff9a00"/>
-<path d="m212.88 0h213.95v480h-213.95z" fill="#fff"/>
-</g>
+<svg id="ivory_coast_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 300">
+<rect width="450" height="300" fill="#009E60"/>
+<rect width="300" height="300" fill="#FFF"/>
+<rect width="150" height="300" fill="#F77F00"/>
 </svg>
