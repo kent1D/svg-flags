@@ -1,9 +1,5 @@
-<svg id="svg548" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 480">
-<g id="flag" transform="scale(.64064 .72072)">
-<g id="g555" stroke-width="1pt" transform="scale(8.325)" fill-rule="evenodd">
-<rect id="rect551" height="80" width="40" y="0" x="0" fill="#00319c"/>
-<rect id="rect552" height="80" width="40" y="0" x="40" fill="#ffde00"/>
-<rect id="rect553" height="80" width="40" y="0" x="80" fill="#de2110"/>
-</g>
-</g>
+<svg id="romania_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2">
+<rect width="1" height="2" x="0" y="0" fill="#002B7F"/>
+<rect width="1" height="2" x="1" y="0" fill="#FCD116"/>
+<rect width="1" height="2" x="2" y="0" fill="#CE1126"/>
 </svg>

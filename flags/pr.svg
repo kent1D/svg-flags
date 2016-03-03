@@ -1,14 +1,15 @@
-<svg id="svg378" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1.0" y="0" x="0">
-<defs id="defs380">
-<clipPath id="clipPath7650" clipPathUnits="userSpaceOnUse">
-<rect id="rect7652" fill-opacity=".67" height="512" width="682.67" y=".0000024116" x="-37.298"/>
-</clipPath>
-</defs>
-<g id="flag" clip-path="url(#clipPath7650)" transform="matrix(.9375 0 0 .9375 34.967 -.0000022609)" fill-rule="evenodd">
-<rect id="rect149" height="512" width="768" y=".0000024116" x="-37.298" stroke-width="1pt" fill="#ed0000"/>
-<rect id="rect280" height="102.4" width="768" y="102.4" x="-37.298" stroke-width="1pt" fill="#fff"/>
-<rect id="rect281" height="102.4" width="768" y="307.2" x="-37.298" stroke-width="1pt" fill="#fff"/>
-<path id="path279" stroke-width="1pt" fill="#0050f0" d="m-37.298 0.0000024116 440.69 255.67-440.69 255.34v-511.01z"/>
-<path id="path205" stroke-width=".11287" fill="#fff" d="m156.45 325.47-47.447-35.432-47.214 35.78 17.56-58.144-47.128-35.904 58.305-0.50059 18.084-57.968 18.472 57.835 58.305 0.0763-46.886 36.243 17.947 58.016z"/>
+<svg id="porto_rico_flag" viewBox="0 0 45 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="45" height="30" fill="#ED0000"/>
+<path stroke="#FFF" stroke-width="6" d="m0 9h45m-45 12h45"/>
+<path d="m0 0l25.981 15-25.981 15z" fill="#0050F0"/>
+<g transform="translate(8.6603 15) scale(5)" fill="#FFF">
+<g id="cone">
+<polygon id="triangle" points="0 0 0 1 0.5 1" transform="translate(0,-1) rotate(18)"/>
+<use xlink:href="#triangle" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#cone" transform="rotate(72)"/>
+<use xlink:href="#cone" transform="rotate(-72)"/>
+<use xlink:href="#cone" transform="rotate(144)"/>
+<use xlink:href="#cone" transform="rotate(216)"/>
 </g>
 </svg>
