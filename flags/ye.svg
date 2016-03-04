@@ -1,7 +1,5 @@
-<svg id="svg3466" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 480">
-<g id="flag" stroke-width="1pt" transform="matrix(.86011 0 0 .96762 0 .000060435)" fill-rule="evenodd">
-<rect id="rect3472" height="488.61" width="744.09" y="-.00001526" x="0" fill="#fff"/>
-<rect id="rect3470" height="162.64" width="744.09" y="-.000062" x="0" fill="#f10600"/>
-<rect id="rect3471" y="333.42" width="744.09" x="0" height="162.64"/>
-</g>
+<svg id="yemen_flag" viewBox="0 0 450 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="450" height="300"/>
+<rect width="450" height="200" fill="#FFF"/>
+<rect width="450" height="100" fill="#CE1126"/>
 </svg>
