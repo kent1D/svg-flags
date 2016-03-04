@@ -1,10 +1,10 @@
-<svg id="uruguay" xmlns="http://www.w3.org/2000/svg" height="600" viewBox="-5 -5 27 18" width="900" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect y="-5" x="-5" height="18" fill="#fff" width="27"/>
+<svg id="uruguay_flag" viewBox="-5 -5 27 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect y="-5" x="-5" fill="#fff" width="27" height="18"/>
 <g fill="#0038a8">
-<rect y="-3" x="5" height="2" width="17"/>
-<rect y="1" x="5" height="2" width="17"/>
-<rect y="5" x="-5" height="2" width="27"/>
-<rect y="9" x="-5" height="2" width="27"/>
+<rect y="-3" x="5" width="17" height="2"/>
+<rect y="1" x="5" width="17" height="2"/>
+<rect y="5" x="-5" width="27" height="2"/>
+<rect y="9" x="-5" width="27" height="2"/>
 </g>
 <g stroke="#000" stroke-width=".6" stroke-miterlimit="20" transform="scale(.11)" fill="#fcd116">
 <g id="u">
