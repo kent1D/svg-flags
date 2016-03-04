@@ -1,18 +1,11 @@
-<svg id="aland_islands_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-<defs>
-<clipPath id="a">
-<path fill-opacity=".67" d="M106.25 0h1133.3v850H106.25z"/>
-</clipPath>
-</defs>
-<g clip-path="url(#a)" transform="matrix(.6024 0 0 .6024 -149.33 0)">
-<path fill="#0053a5" d="M0 0h1300v850H0z"/>
-<g fill="#ffce00">
-<path d="M400 0h250v850H400z"/>
-<path d="M0 300h1300v250H0z"/>
+<svg id="aland_islands_flag" viewBox="0 0 260 170" xmlns="http://www.w3.org/2000/svg">
+<rect width="260" height="170" fill="#0053A5"/>
+<g fill="#FFCE00">
+<rect x="80" height="170" width="50"/>
+<rect y="60" width="260" height="50"/>
 </g>
-<g fill="#d21034">
-<path d="M475 0h100v850H475z"/>
-<path d="M0 375h1300v100H0z"/>
-</g>
+<g fill="#D21034">
+<rect x="95" height="170" width="20"/>
+<rect y="75" width="260" height="20"/>
 </g>
 </svg>
