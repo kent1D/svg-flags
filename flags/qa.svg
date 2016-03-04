@@ -1,4 +1,4 @@
-<svg id="qatar_flag" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 18" >
-<rect width="75" fill="#8d1b3d" height="18"/>
-<path d="m22 18h-22v-18h22l6 1-6 1 6 1-6 1 6 1-6 1 6 1-6 1 6 1-6 1 6 1-6 1 6 1-6 1 6 1-6 1 6 1z" fill="#fff"/>
+<svg id="qatar_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 762 300">
+<rect width="762" fill="#8D1B3D" height="300"/>
+<path d="m0 0v300h240l60.97-16.66-60.97-16.68 60.97-16.66-60.97-16.66 60.97-16.68-60.97-16.66 60.97-16.66-60.97-16.68 60.97-16.66-60.97-16.66 60.97-16.68-60.97-16.66 60.97-16.656-60.97-16.688 60.97-16.656-60.97-16.656 60.97-16.688-60.97-16.656h-240z" fill="#fff"/>
 </svg>
