@@ -1,7 +1,5 @@
-<svg id="tchad" xmlns="http://www.w3.org/2000/svg" fill-opacity="14.118" viewBox="0 0 640 480" version="1.1" fill="#28ff09">
-<g id="flag" fill-opacity="1" fill-rule="evenodd">
-<rect id="rect555" height="480" width="213.97" y="0" x="0" fill="#000067"/>
-<rect id="rect557" height="480" width="213.97" y="0" x="426.03" fill="#f00"/>
-<rect id="rect556" height="480" width="212.06" y="0" x="213.97" fill="#ff0"/>
-</g>
+<svg id="tchad_flag" viewBox="0 0 450 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="450" height="300" fill="#C60C30"/>
+<rect width="300" height="300" fill="#FECB00"/>
+<rect width="150" height="300" fill="#002664"/>
 </svg>

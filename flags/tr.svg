@@ -1,4 +1,4 @@
-<svg id="turkey" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+<svg id="turkey_flag" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
 <rect width="1200" fill="#E30A17" height="800"/>
 <circle cy="400" cx="425" r="200" fill="#fff"/>
 <circle cy="400" cx="475" r="160" fill="#E30A17"/>

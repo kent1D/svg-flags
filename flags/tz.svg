@@ -1,14 +1,6 @@
-<svg id="svg548" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
-<defs id="defs550">
-<clipPath id="clipPath3665" clipPathUnits="userSpaceOnUse">
-<rect id="rect3667" fill-opacity=".67" height="120" width="160" y="8.125e-8" x="10"/>
-</clipPath>
-</defs>
-<g id="flag" stroke-width="1pt" fill-rule="evenodd" transform="matrix(4 0 0 4 -40 -3.25e-7)" clip-path="url(#clipPath3665)">
-<rect id="rect583" height="120" width="180" y="0" x="0" fill="#09f"/>
-<path id="path584" fill="#090" d="m0 0h180l-180 120v-120z"/>
-<path id="path586" d="m0 120h40l140-95v-25h-40l-140 95v25z"/>
-<path id="path587" fill="#ff0" d="m0 91.456 137.18-91.456h13.52l-150.7 100.47v-9.014z"/>
-<path id="path588" transform="translate(30,24.53)" fill="#ff0" d="m-0.7049 95.47 150.7-100.47v9.014l-137.18 91.456h-13.521z"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 48">
+<path d="m0 48v-48h72z" fill="#1eb53a"/>
+<path d="m0 48h72v-48z" fill="#00a3dd"/>
+<path stroke="#fcd116" stroke-width="19" d="m0 48 72-48"/>
+<path stroke="#000" stroke-width="13" d="m0 48 72-48"/>
 </svg>
