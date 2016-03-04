@@ -1,14 +1,7 @@
-<svg id="svg548" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
-<defs id="defs550">
-<clipPath id="clipPath15459" clipPathUnits="userSpaceOnUse">
-<rect id="rect15461" fill-opacity=".67" height="512" width="682.67" y=".000011991" x="0"/>
-</clipPath>
-</defs>
-<g id="flag" stroke-width="1pt" clip-path="url(#clipPath15459)" transform="matrix(.93750 0 0 .93750 0 -.000011241)" fill-rule="evenodd">
-<rect id="rect551" height="512" width="992.13" y=".000013059" x="0" fill="#f00"/>
-<path id="path552" fill="#090" d="m0 512 992.12-170.67v170.67h-992.12z"/>
-<path id="path553" fill="#fff" d="m0 512 992.12-341.33v170.67l-992.12 170.66z"/>
-<path id="path554" fill="#009" d="m0 512v-512h330.71l-330.71 512z"/>
-<path id="path555" fill="#ff0" d="m0 512 330.71-512h330.71l-661.42 512z"/>
-</g>
+<svg id="seychelles_flag" viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
+<path d="m0 450h900v-450h-900z" fill="#d62828"/>
+<path d="m0 450v-450h600z" fill="#fcd856"/>
+<path d="m0 450v-450h300z" fill="#003f87"/>
+<path d="m0 450h900v-300z" fill="#fff"/>
+<path d="m0 450h900v-150z" fill="#007a3d"/>
 </svg>

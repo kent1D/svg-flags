@@ -1,13 +1,17 @@
-<svg id="svg378" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" version="1" y="0" x="0">
-<g id="flag" fill-rule="evenodd">
-<rect id="rect171" rx="0" ry="0" height="480" width="640" y=".0000010549" x="-2.1606e-8" fill="#fff"/>
-<rect id="rect256" rx="0" ry="0" height="159.3" width="480" y="320.7" x="-3.457e-7" fill="#fff"/>
-<rect id="rect255" height="159.3" width="480" y=".000033733" x="-3.457e-7" fill="#fff"/>
-<path id="path205" fill="#fff" d="m201.9 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z"/>
-<path id="path583" fill="#fff" d="m509.54 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z"/>
-<rect id="rect7524" rx="0" ry="0" height="159.3" width="640" y="320.7" x="-3.457e-7" stroke-width="1pt"/>
-<rect id="rect7526" height="159.3" width="640" y=".000033733" x="-3.457e-7" stroke-width="1pt" fill="#f00"/>
-<path id="path7528" stroke-width=".11287" fill="#090" d="m201.9 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z"/>
-<path id="path7530" stroke-width=".11287" fill="#090" d="m509.54 281-28.822-20.867-28.68 21.072 10.667-34.242-28.628-21.145 35.418-0.2948 10.985-34.138 11.221 34.06 35.418 0.0449-28.481 21.344 10.902 34.166z"/>
+<svg id="syria_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 180 120">
+<rect width="180" height="120"/>
+<rect width="180" fill="#fff" height="80"/>
+<rect width="180" fill="#ce1126" height="40"/>
+<g id="s" fill="#007a3d">
+<g id="f">
+<g id="t">
+<path id="o" d="m54 47v13h8" transform="rotate(18,54,47)"/>
+<use x="-108" xlink:href="#o" transform="scale(-1,1)"/>
 </g>
+<use xlink:href="#t" transform="rotate(72,54,60)"/>
+</g>
+<use xlink:href="#t" transform="rotate(-72,54,60)"/>
+<use xlink:href="#f" transform="rotate(144,54,60)"/>
+</g>
+<use x="72" xlink:href="#s"/>
 </svg>
