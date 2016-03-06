@@ -1,6 +1,6 @@
-<svg id="koweit_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
-<rect width="12" fill="#007a3d" height="2"/>
-<rect y="2" width="12" fill="#fff" height="2"/>
-<rect y="4" width="12" fill="#ce1126" height="2"/>
-<polygon points="0 0 3 2 3 4 0 6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
+<path fill="#007a3d" d="M0 0h12v2H0z"/>
+<path fill="#fff" d="M0 2h12v2H0z"/>
+<path fill="#ce1126" d="M0 4h12v2H0z"/>
+<path d="M0 0l3 2v2L0 6z"/>
 </svg>

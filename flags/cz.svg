@@ -1,5 +1,5 @@
-<svg id="czech_republic_flag" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
-<rect width="900" fill="#d7141a" height="600"/>
-<rect width="900" fill="#fff" height="300"/>
-<path d="m450 300-450-300v600z" fill="#11457e"/>
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+<path fill="#d7141a" d="M0 0h900v600H0z"/>
+<path fill="#fff" d="M0 0h900v300H0z"/>
+<path d="M450 300L0 0v600z" fill="#11457e"/>
 </svg>

@@ -1,11 +1,10 @@
-<svg id="singapour_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4320 2880">
-<rect width="4320" height="1440" fill="#ed2939"/>
-<rect y="1440" width="4320" height="1440" fill="#fff"/>
-<path d="m1481.7 720a541.5 541.5 0 1 1 -1083 0 541.5 541.5 0 1 1 1083 0z" fill="#fff"/>
-<path d="m1651.8 720a511.73 511.73 0 1 1 -1023.4 0 511.73 511.73 0 1 1 1023.4 0z" fill="#ed2939"/>
-<path id="star" d="m1007.2 733.06l-73.57-56.43-73.54 56.46 28.32-90.99-73.8-56.09 91.06 0.19 27.93-91.13 27.97 91.12 91.03-0.23-73.75 56.12 28.35 90.98z" fill="#fff"/>
-<use xlink:href="#star" transform="translate(577.19)"/>
-<use xlink:href="#star" transform="translate(288.89 -214.21)"/>
-<use xlink:href="#star" transform="translate(108 342.75)"/>
-<use xlink:href="#star" transform="translate(469.19 342.75)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4320 2880">
+<path fill="#ed2939" d="M0 0h4320v1440H0z"/>
+<path fill="#fff" d="M0 1440h4320v1440H0zm1481.7-720a541.5 541.5 0 1 1-1083 0 541.5 541.5 0 1 1 1083 0z"/>
+<path d="M1651.8 720a511.73 511.73 0 1 1-1023.4 0 511.73 511.73 0 1 1 1023.4 0z" fill="#ed2939"/>
+<path id="a" d="M1007.2 733.06l-73.57-56.43-73.54 56.46 28.32-90.99-73.8-56.09 91.06.19 27.93-91.13 27.97 91.12 91.03-.23-73.75 56.12 28.35 90.98z" fill="#fff"/>
+<use xlink:href="#a" transform="translate(577.19)"/>
+<use xlink:href="#a" transform="translate(288.89 -214.21)"/>
+<use xlink:href="#a" transform="translate(108 342.75)"/>
+<use xlink:href="#a" transform="translate(469.19 342.75)"/>
 </svg>

@@ -1,16 +1,16 @@
-<svg id="south_korea_flag" viewBox="-36 -24 72 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect y="-24" x="-36" height="48" width="72" fill="#fff"/>
+<svg viewBox="-36 -24 72 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill="#fff" d="M-36-24h72v48h-72z"/>
 <g transform="rotate(-56.31)">
-<g id="b2">
-<path id="b" stroke="#000" stroke-width="2" d="m-6-25h12m-12 3h12m-12 3h12"/>
-<use y="44" xlink:href="#b"/>
+<g id="b">
+<path id="a" stroke="#000" stroke-width="2" d="M-6-25H6m-12 3H6m-12 3H6"/>
+<use y="44" xlink:href="#a"/>
 </g>
-<path stroke="#fff" d="m0 17v10"/>
+<path stroke="#fff" d="M0 17v10"/>
 <circle r="12" fill="#c60c30"/>
-<path d="m0-12a6 6 0 0 0 0 12 6 6 0 0 1 0 12 12 12 0 0 1 0 -24z" fill="#003478"/>
+<path d="M0-12A6 6 0 0 0 0 0a6 6 0 0 1 0 12 12 12 0 0 1 0-24z" fill="#003478"/>
 </g>
 <g transform="rotate(236.31)">
-<use xlink:href="#b2"/>
-<path stroke="#fff" d="m0-23.5v3m0 37.5v3.5m0 3v3"/>
+<use xlink:href="#b"/>
+<path stroke="#fff" d="M0-23.5v3M0 17v3.5m0 3v3"/>
 </g>
 </svg>

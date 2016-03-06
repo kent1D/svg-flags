@@ -1,4 +1,4 @@
-<svg id="poland_flag" viewBox="0 0 16 10" xmlns="http://www.w3.org/2000/svg">
-<rect width="16" fill="#fff" height="10"/>
-<rect y="5" width="16" fill="#dc143c" height="5"/>
+<svg viewBox="0 0 16 10" xmlns="http://www.w3.org/2000/svg">
+<path fill="#fff" d="M0 0h16v10H0z"/>
+<path fill="#dc143c" d="M0 5h16v5H0z"/>
 </svg>

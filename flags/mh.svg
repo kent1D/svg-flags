@@ -1,18 +1,18 @@
-<svg id="marshall_islands_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 570 300">
-<rect width="570" fill="#003893" height="300"/>
-<path d="m0 295.2v-7.2l570-253v87.4z" fill="#fff"/>
-<path d="m0 290.4v-4.8l570-280.8v58.8z" fill="#dd7500"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 570 300">
+<path fill="#003893" d="M0 0h570v300H0z"/>
+<path d="M0 295.2V288L570 35v87.4z" fill="#fff"/>
+<path d="M0 290.4v-4.8L570 4.8v58.8z" fill="#dd7500"/>
 <g transform="translate(109.54 109.54)" fill="#fff">
-<g id="r6">
-<path d="m0-93 5.59 93h-11.18z"/>
-<path id="r1" transform="rotate(15)" d="m0-66.588 6.824 66.588h-13.648z"/>
-<use xlink:href="#r1" transform="rotate(15)"/>
-<use xlink:href="#r1" transform="rotate(30)"/>
-<use xlink:href="#r1" transform="rotate(45)"/>
-<use xlink:href="#r1" transform="rotate(60)"/>
+<g id="b">
+<path d="M0-93L5.59 0H-5.59z"/>
+<path id="a" d="M17.234-64.32L6.59 1.767-6.59-1.766z"/>
+<use xlink:href="#a" transform="rotate(15)"/>
+<use xlink:href="#a" transform="rotate(30)"/>
+<use xlink:href="#a" transform="rotate(45)"/>
+<use xlink:href="#a" transform="rotate(60)"/>
 </g>
-<use xlink:href="#r6" transform="rotate(90)"/>
-<use xlink:href="#r6" transform="rotate(180)"/>
-<use xlink:href="#r6" transform="rotate(270)"/>
+<use xlink:href="#b" transform="rotate(90)"/>
+<use xlink:href="#b" transform="rotate(180)"/>
+<use xlink:href="#b" transform="rotate(270)"/>
 </g>
 </svg>

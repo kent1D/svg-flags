@@ -1,23 +1,23 @@
 <svg viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<clipPath id="t">
-<path d="m0 0v15h70v15h-10zm0 30v10h30v-40h30z"/>
+<clipPath id="a">
+<path d="M0 0v15h70v15H60zm0 30v10h30V0h30z"/>
 </clipPath>
-<rect width="120" fill="#002868" height="60"/>
+<path fill="#002868" d="M0 0h120v60H0z"/>
 <g stroke="#cf142b" stroke-width="6">
-<path stroke="#fff" d="m0 0l60 30m0-30l-60 30"/>
-<path stroke-width="4" d="m0 0l60 30m0-30l-60 30" clip-path="url(#t)"/>
-<path stroke="#fff" stroke-width="10" d="m30 0v40m-30-25h70"/>
-<path d="m30 0v40m-30-25h70"/>
+<path stroke="#fff" d="M0 0l60 30m0-30L0 30"/>
+<path stroke-width="4" d="M0 0l60 30m0-30L0 30" clip-path="url(#a)"/>
+<path stroke="#fff" stroke-width="10" d="M30 0v40M0 15h70"/>
+<path d="M30 0v40M0 15h70"/>
 </g>
-<path d="m60 0h60v60h-120v-30h60z" fill="#fcd116"/>
-<g transform="translate(30,15)">
+<path d="M60 0h60v60H0V30h60z" fill="#fcd116"/>
+<g transform="translate(30 15)">
 <g transform="scale(5.1039)">
 <circle r="1" fill="#002868"/>
-<path id="s" fill="#fcd116" transform="scale(.0000019468)" d="m0-5.1367e5 3.0193e5 9.2924e5 -7.9046e5 -5.743e5h9.7706e5l-7.9046e5 5.743e5"/>
+<path id="b" fill="#fcd116" d="M0-1L.588.81-.952-.31H.952L-.588.81"/>
 </g>
-<use xlink:href="#s" transform="translate(-17.5 .29) scale(3)"/>
-<use xlink:href="#s" transform="translate(17.5 .29) scale(3)"/>
-<use xlink:href="#s" transform="translate(0,10.29) scale(3)"/>
-<use xlink:href="#s" transform="translate(0,-9.71) scale(3)"/>
+<use xlink:href="#b" transform="matrix(3 0 0 3 -17.5 .29)"/>
+<use xlink:href="#b" transform="matrix(3 0 0 3 17.5 .29)"/>
+<use xlink:href="#b" transform="matrix(3 0 0 3 0 10.29)"/>
+<use xlink:href="#b" transform="matrix(3 0 0 3 0 -9.71)"/>
 </g>
 </svg>

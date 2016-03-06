@@ -1,16 +1,16 @@
-<svg id="north_korea_flag" viewBox="0 0 72 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="72" height="36" fill="#024FA2"/>
-<rect y="6" width="72" height="24" fill="#fff"/>
-<rect y="7" width="72" height="22" fill="#ED1C27"/>
+<svg viewBox="0 0 72 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill="#024FA2" d="M0 0h72v36H0z"/>
+<path fill="#fff" d="M0 6h72v24H0z"/>
+<path fill="#ED1C27" d="M0 7h72v22H0z"/>
 <circle cy="18" cx="24" r="8" fill="#fff"/>
-<g id="star" fill="#ED1C27" transform="translate(24,18) scale(7.75)">
-<g id="cone">
-<polygon id="triangle" points="0 0 0 1 0.5 1" transform="translate(0,-1) rotate(18)"/>
-<use id="use12" xlink:href="#triangle" transform="scale(-1,1)"/>
+<g fill="#ED1C27" transform="matrix(7.75 0 0 7.75 24 18)">
+<g id="b">
+<path id="a" d="M0-1l-.31.95.477.156z"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
 </g>
-<use id="use14" xlink:href="#cone" transform="rotate(72)"/>
-<use id="use16" xlink:href="#cone" transform="rotate(-72)"/>
-<use id="use18" xlink:href="#cone" transform="rotate(144)"/>
-<use id="use20" xlink:href="#cone" transform="rotate(216)"/>
+<use xlink:href="#b" transform="rotate(72)"/>
+<use xlink:href="#b" transform="rotate(-72)"/>
+<use xlink:href="#b" transform="rotate(144)"/>
+<use xlink:href="#b" transform="rotate(216)"/>
 </g>
 </svg>

@@ -1,15 +1,15 @@
-<svg id="antigua_and_barbuda_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 138 92">
-<rect width="138" fill="#fff" height="92"/>
-<rect width="138" height="36"/>
-<g transform="translate(69,36)">
-<g id="c3">
-<path id="c" fill="#fcd116" d="m-30 0 30-5.7424v11.485z"/>
-<use xlink:href="#c" transform="rotate(22.5)"/>
-<use xlink:href="#c" transform="rotate(45)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 138 92">
+<path fill="#fff" d="M0 0h138v92H0z"/>
+<path d="M0 0h138v36H0z"/>
+<g transform="translate(69 36)">
+<g id="b">
+<path id="a" fill="#fcd116" d="M-30 0L0-5.742V5.743z"/>
+<use xlink:href="#a" transform="rotate(22.5)"/>
+<use xlink:href="#a" transform="rotate(45)"/>
 </g>
-<use xlink:href="#c3" transform="rotate(67.5)"/>
-<use xlink:href="#c3" transform="rotate(135)"/>
+<use xlink:href="#b" transform="rotate(67.5)"/>
+<use xlink:href="#b" transform="rotate(135)"/>
 </g>
-<rect y="36" width="138" fill="#0072c6" height="20"/>
-<path d="m0 0v92h138v-92l-69 92z" fill="#ce1126"/>
+<path fill="#0072c6" d="M0 36h138v20H0z"/>
+<path d="M0 0v92h138V0L69 92z" fill="#ce1126"/>
 </svg>

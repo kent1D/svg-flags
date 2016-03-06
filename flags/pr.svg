@@ -1,15 +1,15 @@
-<svg id="porto_rico_flag" viewBox="0 0 45 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="45" height="30" fill="#ED0000"/>
-<path stroke="#FFF" stroke-width="6" d="m0 9h45m-45 12h45"/>
-<path d="m0 0l25.981 15-25.981 15z" fill="#0050F0"/>
-<g transform="translate(8.6603 15) scale(5)" fill="#FFF">
-<g id="cone">
-<polygon id="triangle" points="0 0 0 1 0.5 1" transform="translate(0,-1) rotate(18)"/>
-<use xlink:href="#triangle" transform="scale(-1,1)"/>
+<svg viewBox="0 0 45 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill="#ED0000" d="M0 0h45v30H0z"/>
+<path stroke="#FFF" stroke-width="6" d="M0 9h45M0 21h45"/>
+<path d="M0 0l25.98 15L0 30z" fill="#0050F0"/>
+<g transform="matrix(5 0 0 5 8.66 15)" fill="#FFF">
+<g id="b">
+<path id="a" d="M0-1l-.31.95.477.156z"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
 </g>
-<use xlink:href="#cone" transform="rotate(72)"/>
-<use xlink:href="#cone" transform="rotate(-72)"/>
-<use xlink:href="#cone" transform="rotate(144)"/>
-<use xlink:href="#cone" transform="rotate(216)"/>
+<use xlink:href="#b" transform="rotate(72)"/>
+<use xlink:href="#b" transform="rotate(-72)"/>
+<use xlink:href="#b" transform="rotate(144)"/>
+<use xlink:href="#b" transform="rotate(216)"/>
 </g>
 </svg>

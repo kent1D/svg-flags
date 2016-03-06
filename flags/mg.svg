@@ -1,5 +1,5 @@
-<svg id="madagascar_flag" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
-<rect width="900" height="600" fill="#007E3A"/>
-<rect width="900" height="300" fill="#FC3D32"/>
-<rect width="300" height="600" fill="#FFF"/>
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+<path fill="#007E3A" d="M0 0h900v600H0z"/>
+<path fill="#FC3D32" d="M0 0h900v300H0z"/>
+<path fill="#FFF" d="M0 0h300v600H0z"/>
 </svg>

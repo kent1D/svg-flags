@@ -1,7 +1,7 @@
-<svg id="pakistan_flag" xmlns="http://www.w3.org/2000/svg" viewBox="-75 -40 120 80">
-<rect y="-40" x="-75" height="80" fill="#fff" width="120"/>
-<rect y="-40" x="-45" height="80" fill="#01411C" width="90"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-75 -40 120 80">
+<path fill="#fff" d="M-75-40H45v80H-75z"/>
+<path fill="#01411C" d="M-45-40h90v80h-90z"/>
 <circle r="24" fill="#fff"/>
 <circle cx="-7" cy="-40" r="22" transform="rotate(-41.634 45 -40)" fill="#01411C"/>
-<polygon points="0 -5.1367e5 3.0193e5 4.1557e5 -4.8853e5 -1.5873e5 4.8853e5 -1.5873e5 -3.0193e5 4.1557e5" transform="rotate(-41.634) translate(16) rotate(18) scale(.000015574)" fill="#fff"/>
+<path fill="#fff" d="M8.75-17.96L18.86-6.585 3.998-9.845l13.94-6.1-7.692 13.13z"/>
 </svg>

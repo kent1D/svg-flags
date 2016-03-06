@@ -1,17 +1,17 @@
-<svg id="saint_kitts_and_nevis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500">
-<path d="m750 0h-750v500" fill="#009e49"/>
-<path d="m0 500h750v-500" fill="#ce1126"/>
-<path stroke="#fcd116" stroke-width="210" d="m0 500 750-500"/>
-<path stroke="#000" stroke-width="150" d="m0 500 750-500"/>
-<g id="star" fill="#fff" transform="translate(517.5,155) rotate(-33.69)">
-<g id="c">
-<path id="t" transform="rotate(18,0,-70)" d="m0-70v70h35"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500">
+<path d="M750 0H0v500" fill="#009e49"/>
+<path d="M0 500h750V0" fill="#ce1126"/>
+<path stroke="#fcd116" stroke-width="210" d="M0 500L750 0"/>
+<path stroke="#000" stroke-width="150" d="M0 500L750 0"/>
+<g id="c" fill="#fff" transform="rotate(-33.69 514.716 -777.095)">
+<g id="b">
+<path id="a" d="M0-70L-21.63-3.426 11.655 7.39"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
 </g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
+<use xlink:href="#b" transform="rotate(72)"/>
+<use xlink:href="#b" transform="rotate(144)"/>
+<use xlink:href="#b" transform="rotate(216)"/>
+<use xlink:href="#b" transform="rotate(288)"/>
 </g>
-<use xlink:href="#star" transform="translate(-285,190)"/>
+<use xlink:href="#c" transform="translate(-285 190)"/>
 </svg>

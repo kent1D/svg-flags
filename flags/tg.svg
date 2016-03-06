@@ -1,16 +1,15 @@
-<svg id="togo_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 809 500">
-<rect width="809" fill="#006a4e" height="500"/>
-<rect y="100" width="809" fill="#ffce00" height="100"/>
-<rect y="300" width="809" fill="#ffce00" height="100"/>
-<rect width="300" fill="#d21034" height="300"/>
-<g transform="translate(150,150)" fill="#fff">
-<g id="c">
-<path id="t" transform="rotate(18 0,-95)" d="m0-95v95h50"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 809 500">
+<path fill="#006a4e" d="M0 0h809v500H0z"/>
+<path fill="#ffce00" d="M0 100h809v100H0zm0 200h809v100H0z"/>
+<path fill="#d21034" d="M0 0h300v300H0z"/>
+<g transform="translate(150 150)" fill="#fff">
+<g id="b">
+<path id="a" d="M0-95L-29.357-4.65 18.196 10.8"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
 </g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
+<use xlink:href="#b" transform="rotate(72)"/>
+<use xlink:href="#b" transform="rotate(144)"/>
+<use xlink:href="#b" transform="rotate(216)"/>
+<use xlink:href="#b" transform="rotate(288)"/>
 </g>
 </svg>

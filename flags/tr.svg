@@ -1,6 +1,6 @@
-<svg id="turkey_flag" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
-<rect width="1200" fill="#E30A17" height="800"/>
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+<path fill="#E30A17" d="M0 0h1200v800H0z"/>
 <circle cy="400" cx="425" r="200" fill="#fff"/>
 <circle cy="400" cx="475" r="160" fill="#E30A17"/>
-<polygon points="583.33 400 764.24 458.78 652.43 304.89 652.43 495.11 764.24 341.22" fill="#fff"/>
+<path fill="#fff" d="M583.33 400l180.91 58.78-111.81-153.89v190.22l111.81-153.89z"/>
 </svg>

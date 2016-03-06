@@ -1,12 +1,12 @@
-<svg id="vietnam_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-15 -10 30 20">
-<rect y="-10" x="-15" height="20" width="30" fill="#DA251d"/>
-<g id="g" transform="translate(0,-6)">
-<polyline id="g1" points="0 0 0 6 4 6" transform="rotate(18)" fill="#FF0"/>
-<use xlink:href="#g1" transform="scale(-1,1)"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-15 -10 30 20">
+<path fill="#DA251d" d="M-15-10h30v20h-30z"/>
+<g id="b" transform="translate(0 -6)">
+<path id="a" fill="#FF0" d="M0 0l-1.854 5.706L1.95 6.942"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
 </g>
-<g id="g2" transform="rotate(72)">
-<use xlink:href="#g"/>
-<use xlink:href="#g" transform="rotate(72)"/>
+<g id="c" transform="rotate(72)">
+<use xlink:href="#b"/>
+<use xlink:href="#b"/>
 </g>
-<use xlink:href="#g2" transform="scale(-1,1)"/>
+<use xlink:href="#c" transform="scale(-1 1)"/>
 </svg>

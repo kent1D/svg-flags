@@ -1,6 +1,6 @@
-<svg id="saint_lucia_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
-<rect width="600" height="300" fill="#6Cf"/>
-<polygon points="200 274 300 260 400 274 300 27" fill="#FFF"/>
-<polygon points="213.5 274 300 260 386.5 274 300 60"/>
-<polygon points="200 274 400 274 300 150" fill="#FCD116"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<path fill="#6Cf" d="M0 0h600v300H0z"/>
+<path fill="#FFF" d="M200 274l100-14 100 14L300 27z"/>
+<path d="M213.5 274l86.5-14 86.5 14L300 60z"/>
+<path fill="#FCD116" d="M200 274h200L300 150z"/>
 </svg>

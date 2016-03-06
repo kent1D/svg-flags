@@ -1,16 +1,16 @@
-<svg id="timor_leste_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-3 -6 24 12">
-<path d="m21 6v-12h-24v12z" fill="#dc241f"/>
-<path d="m-3-6v12l12-6z" fill="#ffc726"/>
-<path d="m-3-6v12l8-6z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-3 -6 24 12">
+<path d="M21 6V-6H-3V6z" fill="#dc241f"/>
+<path d="M-3-6V6L9 0z" fill="#ffc726"/>
+<path d="M-3-6V6l8-6z"/>
 <g transform="rotate(-26.565)">
-<g id="f">
-<g id="t">
-<path id="o" transform="rotate(18,0,-2.1)" d="m0-2.1v2.1h1z" fill="#fff"/>
-<use xlink:href="#o" transform="scale(-1,1)"/>
+<g id="c">
+<g id="b">
+<path id="a" d="M0-2.1L-.65-.103l.952.31z" fill="#fff"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
 </g>
-<use xlink:href="#t" transform="rotate(72)"/>
+<use xlink:href="#b" transform="rotate(72)"/>
 </g>
-<use xlink:href="#t" transform="rotate(-72)"/>
-<use xlink:href="#f" transform="rotate(144)"/>
+<use xlink:href="#b" transform="rotate(-72)"/>
+<use xlink:href="#c" transform="rotate(144)"/>
 </g>
 </svg>

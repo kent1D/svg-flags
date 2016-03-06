@@ -1,17 +1,17 @@
-<svg id="south_africa_flag" viewBox="0 0 9 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<clipPath id="Z">
-<path id="X" d="m0 0 4.5 3-4.5 3"/>
+<svg viewBox="0 0 9 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<clipPath id="c">
+<path id="b" d="M0 0l4.5 3L0 6"/>
 </clipPath>
-<clipPath id="A">
-<path d="m0 0h9v6h-9z"/>
+<clipPath id="a">
+<path d="M0 0h9v6H0z"/>
 </clipPath>
-<g clip-path="url(#A)">
-<path d="m0 0v6h9v-6z" fill="#002395"/>
-<path d="m0 0v3h9v-3z" fill="#de3831"/>
+<g clip-path="url(#a)">
+<path d="M0 0v6h9V0z" fill="#002395"/>
+<path d="M0 0v3h9V0z" fill="#de3831"/>
 <g stroke="#fff" stroke-width="2">
-<path id="W" d="m0 0 4.5 3-4.5 3m4.5-3h4.5"/>
-<use stroke="#ffb612" xlink:href="#X" clip-path="url(#Z)"/>
+<path id="d" d="M0 0l4.5 3L0 6m4.5-3H9"/>
+<use stroke="#ffb612" xlink:href="#b" clip-path="url(#c)"/>
 </g>
-<use stroke-width="1.2" stroke="#007a4d" xlink:href="#W" fill="none"/>
+<use stroke-width="1.2" stroke="#007a4d" xlink:href="#d" fill="none"/>
 </g>
 </svg>

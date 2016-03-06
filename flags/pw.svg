@@ -1,4 +1,4 @@
-<svg id="palau_flag" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
-<rect width="800" height="500" fill="#4AADD6"/>
+<svg viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+<path fill="#4AADD6" d="M0 0h800v500H0z"/>
 <circle cy="250" cx="350" r="150" fill="#FFDE00"/>
 </svg>

@@ -1,4 +1,4 @@
-<svg id="jamaica_flag" viewBox="0 0 12 6" xmlns="http://www.w3.org/2000/svg">
-<rect width="12" fill="#009B3A" height="6"/>
-<path stroke="#FED100" d="m-6 9 24-12v12l-24-12"/>
+<svg viewBox="0 0 12 6" xmlns="http://www.w3.org/2000/svg">
+<path fill="#009B3A" d="M0 0h12v6H0z"/>
+<path stroke="#FED100" d="M-6 9L18-3V9L-6-3"/>
 </svg>

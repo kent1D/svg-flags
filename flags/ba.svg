@@ -1,11 +1,11 @@
-<svg id="bosnia_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 8">
-<rect width="16" fill="#002395" height="8"/>
-<path d="m4.24 0h8v8z" fill="#fecb00"/>
-<g id="g">
-<path id="s" d="m2.3533 0.52485 0.4467-1.3748 0.4467 1.3748-1.1695-0.8497h1.4456z" fill="#fff"/>
-<use y="1" x="1" xlink:href="#s"/>
-<use y="2" x="2" xlink:href="#s"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 8">
+<path fill="#002395" d="M0 0h16v8H0z"/>
+<path d="M4.24 0h8v8z" fill="#fecb00"/>
+<g id="b">
+<path id="a" d="M2.353.525L2.8-.85 3.247.525l-1.17-.85h1.446z" fill="#fff"/>
+<use y="1" x="1" xlink:href="#a"/>
+<use y="2" x="2" xlink:href="#a"/>
 </g>
-<use y="3" x="3" xlink:href="#g"/>
-<use y="6" x="6" xlink:href="#g"/>
+<use y="3" x="3" xlink:href="#b"/>
+<use y="6" x="6" xlink:href="#b"/>
 </svg>

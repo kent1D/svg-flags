@@ -1,5 +1,5 @@
-<svg id="netherlands_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 6">
-<rect width="9" height="6" fill="#21468B"/>
-<rect width="9" height="4" fill="#FFF"/>
-<rect width="9" height="2" fill="#AE1C28"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 6">
+<path fill="#21468B" d="M0 0h9v6H0z"/>
+<path fill="#FFF" d="M0 0h9v4H0z"/>
+<path fill="#AE1C28" d="M0 0h9v2H0z"/>
 </svg>

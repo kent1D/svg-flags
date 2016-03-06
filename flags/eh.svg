@@ -1,9 +1,9 @@
-<svg id="western_sahara_flag" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
-<rect width="600" height="150"/>
-<rect y="150" width="600" fill="#007a3d" height="150"/>
-<rect y="100" width="600" fill="#fff" height="100"/>
-<path d="m0 0 200 150-200 150z" fill="#c4111b"/>
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0h600v150H0z"/>
+<path fill="#007a3d" d="M0 150h600v150H0z"/>
+<path fill="#fff" d="M0 100h600v100H0z"/>
+<path d="M0 0l200 150L0 300z" fill="#c4111b"/>
 <circle cy="150" cx="300" r="40" fill="#c4111b"/>
 <circle cy="150" cx="315" r="40" fill="#fff"/>
-<path d="m289.26 174.22 17.056-12.193 16.923 12.377-6.3253-19.989 17.001-12.27-20.966-0.16131-6.4159-19.96-6.6322 19.89-20.966-0.0661 16.867 12.454-6.5418 19.919z" fill="#c4111b"/>
+<path d="M289.26 174.22l17.056-12.193 16.923 12.377-6.33-19.99 17-12.27-20.97-.16-6.42-19.96-6.63 19.89-20.97-.066 16.86 12.454-6.54 19.92z" fill="#c4111b"/>
 </svg>

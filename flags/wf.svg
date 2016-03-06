@@ -1,7 +1,7 @@
-<svg id="wallis_and_futuna_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 100">
-<path d="m0 0h150v100h-150z" fill="#ED2939"/>
-<path d="m0 0h40v40h-40z" fill="#FFF"/>
-<path d="m0 0h20v40h-20z" fill="#002395"/>
-<path stroke="#FFF" d="m0 40h60v-40" fill="none"/>
-<path d="m105 46-12-12h24zm-4 4-12-12v24zm4 4-12 12h24zm4-4 12-12v24z" fill="#FFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 100">
+<path d="M0 0h150v100H0z" fill="#ED2939"/>
+<path d="M0 0h40v40H0z" fill="#FFF"/>
+<path d="M0 0h20v40H0z" fill="#002395"/>
+<path stroke="#FFF" d="M0 40h60V0" fill="none"/>
+<path d="M105 46L93 34h24zm-4 4L89 38v24zm4 4L93 66h24zm4-4l12-12v24z" fill="#FFF"/>
 </svg>

@@ -1,13 +1,13 @@
-<svg id="comoros_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 300">
-<rect width="500" height="300" fill="#3A75C4"/>
-<rect width="500" height="225" fill="#CE1126"/>
-<rect width="500" height="150" fill="#FFF"/>
-<rect width="500" height="75" fill="#FFC61E"/>
-<path d="m0 300l250-150-250-150v300z" fill="#3D8E33"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 300">
+<path fill="#3A75C4" d="M0 0h500v300H0z"/>
+<path fill="#CE1126" d="M0 0h500v225H0z"/>
+<path fill="#FFF" d="M0 0h500v150H0z"/>
+<path fill="#FFC61E" d="M0 0h500v75H0z"/>
+<path d="M0 300l250-150L0 0v300z" fill="#3D8E33"/>
 <circle cy="150" cx="85" r="67.5" fill="#FFF"/>
 <circle cy="150" cx="115" r="67.5" fill="#3D8E33"/>
-<path id="star" d="m100.01 89.2l7.3594 22.588-19.258-13.951h23.775l-19.257 13.949 7.377-22.59z" fill="#FFF"/>
-<use y="32.2083" xlink:href="#star"/>
-<use y="64.4166" xlink:href="#star"/>
-<use y="96.625" xlink:href="#star"/>
+<path id="a" d="M100.01 89.2l7.36 22.588-19.26-13.95h23.776L92.63 111.785l7.376-22.59z" fill="#FFF"/>
+<use y="32.208" xlink:href="#a"/>
+<use y="64.417" xlink:href="#a"/>
+<use y="96.625" xlink:href="#a"/>
 </svg>

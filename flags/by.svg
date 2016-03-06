@@ -1,13 +1,10 @@
-<svg id="belarus_flag" viewBox="0 0 1098 549" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="1098" height="549" fill="#C8313E"/>
-<rect y="366" width="1098" height="183" fill="#4AA657"/>
-<rect width="122" height="549" fill="#FFF"/>
-<g id="h">
-<g id="q" fill-rule="evenodd" transform="scale(5.3043 9)" fill="#C8313E">
-<path d="m4 0h3v1h1v1h1v1h1v1h1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h1v-1h1v-1h1v-1h1zm1 2h1v1h1v1h1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h1v-1h1zm0 2h1v1h-1zm-5-3h1v1h-1zm0 6h1v1h-1zm11-7h0.6v2h-0.6zm0 7h0.6v2h-0.6zm-9 2h1v1h1v1h1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h1v-1h1zm0 2h1v1h-1zm6-2h1v1h1v1h1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h1v-1h1zm0 2h1v1h-1zm-8 4h1v1h-1zm11-1h0.6v2h-0.6z"/>
-<path d="m0 18h1v-1h1v-1h1v-1h1v-1h1v-1h1v1h1v1h1v1h1v1h1v1h1v1h0.6v4h-0.6v1h-1v1h-1v1h-1v1h-1v1h-1v2.6h-2v-0.6h-1v-1h-1v-1h-1v-1h-1v-3h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h-3v1h2v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1zm0 4h1v1h-1zm11 3h0.6v1h-0.6zm-2 2h1v1h1v1h0.6v1.6h-0.6v-0.6h-1v-1h-1zm-2 3h1v0.6h-1z"/>
+<svg viewBox="0 0 1098 549" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill="#C8313E" d="M0 0h1098v549H0z"/>
+<path fill="#4AA657" d="M0 366h1098v183H0z"/>
+<path fill="#FFF" d="M0 0h122v549H0z"/>
+<g id="b">
+<path d="M21.217 0H37.13v9h5.304v9h5.305v9h5.3v9h5.3v9h-5.3v9h-5.3v9h-5.31v9h-5.3v9h-5.31v9h-5.3v-9h-5.31v-9h-5.3v-9h-5.3v-9H5.3v-9H0v-9h5.304v-9h5.305v-9h5.3V9h5.3zm5.304 18h5.31v9h5.31v9h5.31v9h-5.31v9h-5.31v9h-5.31v-9h-5.3v-9h-5.3v-9h5.31v-9h5.31zm0 18h5.31v9h-5.31zM0 9h5.304v9H0zm0 54h5.304v9H0zM58.347 0h3.183v18h-3.183zm0 63h3.183v18h-3.183zM10.61 81h5.303v9h5.304v9h5.305v9h-5.305v9h-5.304v9H10.61v-9H5.303v-9H0v-9h5.304v-9h5.305zm0 18h5.303v9H10.61zm31.824-18h5.305v9h5.3v9h5.3v9h-5.3v9h-5.3v9h-5.31v-9h-5.3v-9h-5.31v-9h5.3v-9h5.3zm0 18h5.305v9h-5.31zM0 135h5.304v9H0zm58.347-9h3.183v18h-3.183zM0 162h5.304v-9h5.305v-9h5.3v-9h5.3v-9h5.3v-9h5.3v9h5.3v9h5.3v9h5.3v9h5.3v9h5.3v9h3.19v36h-3.18v9h-5.3v9h-5.3v9h-5.3v9h-5.3v9h-5.3v23.4H21.21V270h-5.3v-9h-5.3v-9H5.303v-9H0v-27h5.304v9h5.305v9h5.3v9h5.3v-9h5.3v-9h5.3v-9h5.3v-9h5.3v-9h5.3v-9h-5.3v-9h-5.3v-9h-15.9v9h10.61v9h-5.3v9h-5.31v9h-5.3v-9h-5.3v-9H5.3v-9H0zm0 36h5.304v9H0zm58.347 27h3.183v9h-3.183zM47.74 243h5.303v9h5.304v9h3.183v14.4h-3.183V270h-5.304v-9H47.74zm-10.61 27h5.304v5.4H37.13z" id="a" fill-rule="evenodd" fill="#C8313E"/>
+<use xlink:href="#a" transform="matrix(-1 0 0 1 122 0)"/>
 </g>
-<use xlink:href="#q" transform="translate(122) scale(-1 1)"/>
-</g>
-<use xlink:href="#h" transform="translate(0,549) scale(1,-1)"/>
+<use xlink:href="#b" transform="matrix(1 0 0 -1 0 549)"/>
 </svg>

@@ -1,5 +1,5 @@
-<svg id="mali_flag" viewBox="0 0 450 300" xmlns="http://www.w3.org/2000/svg">
-<rect width="450" height="300" fill="#CE1126"/>
-<rect width="300" height="300" fill="#FCD116"/>
-<rect width="150" height="300" fill="#14B53A"/>
+<svg viewBox="0 0 450 300" xmlns="http://www.w3.org/2000/svg">
+<path fill="#CE1126" d="M0 0h450v300H0z"/>
+<path fill="#FCD116" d="M0 0h300v300H0z"/>
+<path fill="#14B53A" d="M0 0h150v300H0z"/>
 </svg>

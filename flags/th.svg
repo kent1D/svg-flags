@@ -1,5 +1,5 @@
-<svg id="thailand_flag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
-<rect width="900" height="600" fill="#ED1C24"/>
-<rect y="100" width="900" height="400" fill="#fff"/>
-<rect y="200" width="900" height="200" fill="#241D4F"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<path fill="#ED1C24" d="M0 0h900v600H0z"/>
+<path fill="#fff" d="M0 100h900v400H0z"/>
+<path fill="#241D4F" d="M0 200h900v200H0z"/>
 </svg>

@@ -1,7 +1,7 @@
-<svg id="india_flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480">
-<path d="m0 0h640v160h-640z" fill="#f93"/>
-<path d="m0 160h640v160h-640z" fill="#fff"/>
-<path d="m0 320h640v160h-640z" fill="#128807"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480">
+<path d="M0 0h640v160H0z" fill="#f93"/>
+<path d="M0 160h640v160H0z" fill="#fff"/>
+<path d="M0 320h640v160H0z" fill="#128807"/>
 <g transform="matrix(3.2 0 0 3.2 320 240)">
 <circle r="20" fill="#008"/>
 <circle r="17.5" fill="#fff"/>
@@ -11,7 +11,7 @@
 <g id="b">
 <g id="a" fill="#008">
 <circle r=".875" transform="rotate(7.5 -8.75 133.5)"/>
-<path d="m0 17.5l0.6-10.5-0.6-5-0.6 5 0.6 10.5z"/>
+<path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z"/>
 </g>
 <use width="100%" xlink:href="#a" transform="rotate(15)" height="100%"/>
 </g>
