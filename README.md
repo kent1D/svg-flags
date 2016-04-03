@@ -45,3 +45,7 @@ Exports in png and gif formats
 Does not respect the original design of all flags (compare the [bolivian flag](https://github.com/seanherron/Flag-Webicons/blob/master/flags/bolivia.svg) for example).
 
 Flags are not fully web optimized (look at the code of all flags)
+
+## Documentation
+
+[flagstories](http://flagstories.co/) : interesting website about flags history
