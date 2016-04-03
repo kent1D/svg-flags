@@ -1,3 +1,5 @@
 js2svg:
   pretty: true
   indent: ''
+#plugins:
+#  - convertPathData: false
