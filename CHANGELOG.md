@@ -1,5 +1,11 @@
 ## Changelog
 
+### Version 0.1.4 (2016-07-05)
+
+Adding Adjara flag (ge-aj.svg)
+
+Move all GE province flags to `regions_flags/ge`
+
 ### Version 0.1.3 (2016-07-05)
 
 Adding Ulster flag (gb-nir.svg)
