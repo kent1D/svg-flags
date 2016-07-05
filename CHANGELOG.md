@@ -2,6 +2,12 @@
 
 ### Version 0.1.2 (2016-07-05)
 
+Adding Ulster flag (gb-nir.svg)
+
+Move all GB province flags to `regions_flags/gb`
+
+### Version 0.1.2 (2016-07-05)
+
 All of the autonomous communities of Spain flags
 
 ### Version 0.1.1 (2016-03-11)
