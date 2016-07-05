@@ -1,6 +1,6 @@
 ## Changelog
 
-### Version 0.1.2 (2016-07-05)
+### Version 0.1.3 (2016-07-05)
 
 Adding Ulster flag (gb-nir.svg)
 
