@@ -14,6 +14,14 @@ Most of the packages we found in Internet have defects as :
 
 Now that [all major browsers accept natively the use of SVG](http://caniuse.com/#feat=svg) as picture, it may be an interesting solution to represent flags in this format. 
 
+## Folder structure
+
+The folder structure distribute the flags in several categories :
+
+* `flags/` : countries flags;
+* `io_flags/` : intergovernmental organizations flags;
+* `regions_flags/` : province or regions flags for specific countries;
+
 ## Optimization
 
 All flags use the ```viewBox``` SVG property to avoid them to have fixed width and height.

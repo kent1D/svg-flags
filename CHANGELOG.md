@@ -1,5 +1,13 @@
 ## Changelog
 
+### Version 0.1.5 (2016-07-05)
+
+Adding European Union flag (`io_flags/eu.svg`)
+
+Adding United Nations flag (`io_flags/un.svg`)
+
+Adding a folder `io_flags/` for Intergovernmental organizations
+
 ### Version 0.1.4 (2016-07-05)
 
 Adding Adjara flag (ge-aj.svg)
