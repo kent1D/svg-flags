@@ -1,0 +1,31 @@
+<svg viewBox="-45 -25 90 60" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="a">
+<path d="M0 0l-11-5.5v11L0 0l.2-11h10z"/>
+</clipPath>
+<clipPath id="b">
+<path d="M0 0l-11-11v22L0 0v-11h11z"/>
+</clipPath>
+</defs>
+<path fill="#fff" d="M-45-25h90v60h-90z"/>
+<g fill="none" stroke-width="2" stroke="#fff">
+<circle cx="-11" cy="9" r="9" stroke-width="3"/>
+<circle cx="11" cy="9" r="9" stroke-width="3"/>
+<circle cx="-11" cy="9" r="9" stroke="#f4c300"/>
+<circle cx="11" cy="9" r="9" stroke="#009f3d"/>
+<circle cx="-22" r="9" stroke-width="3"/>
+<circle r="9" stroke-width="3"/>
+<circle cx="22" r="9" stroke-width="3"/>
+<circle cx="-22" r="9" stroke="#0085c7"/>
+<circle r="9" stroke="#000"/>
+<circle cx="22" r="9" stroke="#df0024"/>
+<g transform="translate(-11 9)">
+<circle r="9" stroke-width="3" clip-path="url(#a)"/>
+<circle r="9" stroke="#f4c300" clip-path="url(#b)"/>
+</g>
+<g transform="translate(11 9)">
+<circle r="9" stroke-width="3" clip-path="url(#a)"/>
+<circle r="9" stroke="#009f3d" clip-path="url(#b)"/>
+</g>
+</g>
+</svg>

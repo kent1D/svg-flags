@@ -21,6 +21,7 @@ The folder structure distribute the flags in several categories :
 * `flags/` : countries flags;
 * `io_flags/` : intergovernmental organizations flags;
 * `regions_flags/` : province or regions flags for specific countries;
+* `historical_flags/` : flags of disappeared country or older ones;
 
 ## Optimization
 
