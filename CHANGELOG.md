@@ -1,5 +1,13 @@
 ## Changelog
 
+### Version 0.2.1
+
+Adding Caribbean Netherlands flags :
+
+* Bonaire `BQ-BO` (`regions_flags/bq`)
+* Sint Eustatius `BQ-SE` (`regions_flags/bq`)
+* Saba `BQ-SA` (`regions_flags/bq`)
+
 ### Version 0.2.0
 
 Adding `historical_flags` in the folder structure
