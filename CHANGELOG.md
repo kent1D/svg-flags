@@ -1,5 +1,15 @@
 ## Changelog
 
+### Version 0.2.3
+
+Adding flags of canadian territories:
+
+* Northwest Territories `CA-NT` (`regions_flags/ca`)
+* Nunavut `CA-NU` (`regions_flags/ca`)
+* Yukon Territory `CA-YT` (`regions_flags/ca`)
+
+Better readability for the flags of canadian provinces.
+
 ### Version 0.2.2
 
 Adding flags of canadian provinces  :
