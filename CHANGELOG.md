@@ -1,5 +1,20 @@
 ## Changelog
 
+### Version 0.2.2
+
+Adding flags of canadian provinces  :
+
+* Ontario `CA-ON` (`regions_flags/ca`)
+* Quebec `CA-QC` (`regions_flags/ca`)
+* Nova Scotia `CA-NS` (`regions_flags/ca`)
+* New Brunswick `CA-NB` (`regions_flags/ca`)
+* Manitoba `CA-MB` (`regions_flags/ca`)
+* British Columbia `CA-BS` (`regions_flags/ca`)
+* Prince Edward Island `CA-PE` (`regions_flags/ca`)
+* Saskatchewan `CA-SK` (`regions_flags/ca`)
+* Alberta `CA-AB` (`regions_flags/ca`)
+* Newfoundland and Labrador `CA-NL` (`regions_flags/ca`)
+
 ### Version 0.2.1
 
 Adding Caribbean Netherlands flags :
