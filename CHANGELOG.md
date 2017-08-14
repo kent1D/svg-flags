@@ -1,5 +1,30 @@
 ## Changelog
 
+### Version 0.2.4
+
+Adding flags of the provinces of the Netherlands :
+
+* Drenthe `NL-DR` (`regions_flags/nl`)
+* Flevolan `NL-FL` (`regions_flags/nl`)
+* Fryslân `NL-FR` (`regions_flags/nl`)
+* Gelderland `NL-GE` (`regions_flags/nl`)
+* Groningen `NL-GR` (`regions_flags/nl`)
+* Limburg `NL-LI` (`regions_flags/nl`)
+* Noord-Brabant `NL-NB` (`regions_flags/nl`)
+* Noord-Holland `NL-NH` (`regions_flags/nl`)
+* Overijssel `NL-OV` (`regions_flags/nl`)
+* Utrecht `NL-UT` (`regions_flags/nl`)
+* Zeeland `NL-ZE` (`regions_flags/nl`)
+* Zuid-Holland `NL-ZH` (`regions_flags/nl`)
+
+Adding flags of international organizations :
+
+* ASEAN (`io_flags/asean.svg`)
+* Commonwealth of Independent States (CIS) (`io_flags/cis.svg`)
+* Community of Portuguese Language Countries (CPLP) (`io_flags/cplp.svg`)
+* League of Arab States (LAS) (`io_flags/las.svg`)
+* Organisation internationale de la Francophonie (OIF) (`io_flags/oif.svg`)
+
 ### Version 0.2.3
 
 Adding flags of canadian territories:
