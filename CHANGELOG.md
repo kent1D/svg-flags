@@ -1,5 +1,9 @@
 ## Changelog
 
+### Version 0.2.5
+
+Following the [mauritanian constitutional referendum in 2017](https://en.wikipedia.org/wiki/Mauritanian_constitutional_referendum,_2017), the mauritanian flag has changed. We keep the old one in `historical_flags/mr.svg`
+
 ### Version 0.2.4
 
 Adding flags of the provinces of the Netherlands :
