@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2020 1500">
+<path fill="#da291c" d="M0 0h645v1500H0z"/>
+<path fill="#007a33" d="M645 0h140v1500H645z"/>
+<path fill="#ffcd00" d="M785 0h140v1500H785z"/>
+<path fill="#0033a0" d="M925 0h1095v1500H925z"/>
+<path d="M785 310a440 440 0 0 0 0 880" fill="none" stroke="#0033a0" stroke-width="80"/>
+<path d="M785 310a440 440 0 0 1 0 880" fill="none" stroke="#da291c" stroke-width="80"/>
+</svg>
