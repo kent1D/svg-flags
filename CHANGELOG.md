@@ -1,5 +1,58 @@
 ## Changelog
 
+### Version 0.2.6
+
+Correction of the Ireland flag in concordance with : https://en.wikipedia.org/wiki/Flag_of_Ireland
+
+Update of the flag of South Georgia and Sandwich islands for a problem with the font.
+
+Update Latvia flag in concordance with : https://lv.wikipedia.org/wiki/Latvijas_karogs
+
+Update of Norway flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/Norway.pdf
+
+Update of Finland flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/finland.pdf
+
+Update of Denmark flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/denmark.pdf
+
+Update of Faroes islands flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/faroes.pdf
+
+Update of Greenland flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/greenland.pdf
+
+Update of Iceland flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/island_ny.pdf
+
+Update of Sweden flag in concordance with : http://nordicflagsociety.org/wp-content/uploads/2016/09/sweden.pdf
+
+Update of the Nepal flag
+
+Adding the [sami people flag](https://en.wikipedia.org/wiki/Sami_people) (in people/sami.svg): http://nordicflagsociety.org/wp-content/uploads/2016/09/sami.pdf
+
+Adding flags of the states and territories of Australia which owns one :
+
+* New South Wales `AU-NSW` (`regions_flags/au`)
+* Queensland `AU-QLD` (`regions_flags/au`)
+* South Australia `AU-SA` (`regions_flags/au`)
+* Tasmania `AU-TAS` (`regions_flags/au`)
+* Victoria `AU-VIC` (`regions_flags/au`)
+* Western Australia `AU-WA` (`regions_flags/au`)
+* Northern Territory `AU-NT` (`regions_flags/au`)
+* Australian Capital Territory `AU-ACT` (`regions_flags/au`)
+
+NB : Christmas Island `CX`, Cocos Islands `CC` and Norfolk Island have their own ISO code and are in the `flags/` directory.
+
+Adding missing flags of regions of France :
+
+* Bourgogne-Franche-Comté `FR-D` (`regions_flags/fr`)
+* Centre-Val de Loire
+* Nouvelle-Aquitaine `AU-QLD` (`regions_flags/fr`)
+* Normandy `FR-P` (`regions_flags/fr`)
+* Occitanie `FR-N` (`regions_flags/fr`)
+* Hauts-de-France `AU-WA` (`regions_flags/au`)
+* Auvergne-Rhône-Alpes `AU-NT` (`regions_flags/au`)
+* Île-de-France `FR-J` (`regions_flags/au`)
+* Provence-Alpes-Côte d'Azur `FR-U` (`regions_flags/fr`)
+
+Adding a documentation folder with source documents which may one day disappear (not wikipedia).
+
 ### Version 0.2.5
 
 Following the [mauritanian constitutional referendum in 2017](https://en.wikipedia.org/wiki/Mauritanian_constitutional_referendum,_2017), the mauritanian flag has changed. We keep the old one in `historical_flags/mr.svg`
