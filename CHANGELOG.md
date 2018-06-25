@@ -1,5 +1,9 @@
 ## Changelog
 
+### Version 0.2.7
+
+Correction of the New Zealand flag in concordance with : https://en.wikipedia.org/wiki/Flag_of_New_Zealand
+
 ### Version 0.2.6
 
 Correction of the Ireland flag in concordance with : https://en.wikipedia.org/wiki/Flag_of_Ireland
