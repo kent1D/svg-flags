@@ -1,5 +1,12 @@
 ## Changelog
 
+### Version 0.2.8
+
+Correction of the Thailand flag in concordance with : 
+
+- https://commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg
+- http://www.ratchakitcha.soc.go.th/DATA/PDF/2560/E/245/1.PDF
+
 ### Version 0.2.7
 
 Correction of the New Zealand flag in concordance with : https://en.wikipedia.org/wiki/Flag_of_New_Zealand
