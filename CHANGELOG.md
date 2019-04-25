@@ -1,5 +1,9 @@
 ## Changelog
 
+### Version 0.2.9
+
+Correction of the European Union flag cf https://github.com/kent1D/svg-flags/issues/9
+
 ### Version 0.2.8
 
 Correction of the Thailand flag in concordance with : 
